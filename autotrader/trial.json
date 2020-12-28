@@ -1,0 +1,58 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Car",
+    "vehicleIdentificationNumber": "5N1DR2MN7KC652488",
+    "name": "Used 2019 Nissan Pathfinder SL",
+    "mpn": "Used 2019 Nissan Pathfinder SL",
+    "image": "//images.autotrader.com/hn/c/18da9da1e6ca4674a975dc305915ce98.jpg",
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": 28888,
+        "priceValidUntil": "2021-08-31",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=561446011",
+        "seller": {
+            "@context": "http://schema.org/",
+            "@type": "AutoDealer",
+            "name": "Bunnin Chevrolet of Fillmore",
+            "telephone": "8057742148",
+            "address": {
+                "@context": "http://schema.org/",
+                "@type": "PostalAddress",
+                "addressLocality": "FILLMORE",
+                "addressRegion": "CA",
+                "postalCode": "93015",
+                "streetAddress": "1024 W VENTURA ST"
+            }
+        }
+    },
+    "brand": {
+        "@context": "http://schema.org/",
+        "@type": "Brand",
+        "name": "Nissan"
+    },
+    "model": "Pathfinder",
+    "manufacturer": {
+        "@context": "http://schema.org/",
+        "@type": "Organization",
+        "name": "Nissan"
+    },
+    "productionDate": 2019,
+    "driveWheelConfiguration": "2 wheel drive - front",
+    "vehicleEngine": "6-Cylinder",
+    "vehicleTransmission": "Automatic",
+    "color": "Red",
+    "mileageFromOdometer": {
+        "@type": "QuantitativeValue",
+        "value": "3,926"
+    },
+    "bodyType": ["Sport Utility"],
+    "url": "https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=561446011",
+    "vehicleInteriorColor": "Rock Creek",
+    "fuelEfficiency": "20 City / 27 Highway",
+    "fuelType": "Gasoline",
+    "sku": 561446011,
+    "description": "Location: FILLMORE, CA. This 2019 Nissan Pathfinder includes 3rd Row Seat, 4-Wheel Disc Brakes, A/C, ABS, AM/FM Stereo, Adaptive Cruise Control, Adjustable Steering Wheel, Aluminum Wheels, Auto-Dimming Rearview Mirror, 3rd-Row Seats, Adaptive Cruise Control, Alarm System, Auxiliary Audio Input, Blind Spot Alert, Bluetooth, Hands-Free, Brake Assist, Cross Traffic Alert, Cruise Control, Fog Lights, Heated Passenger Seat, Heated Seats, Keyless Entry, Keyless Start, Leather Wrapped Steering Wheel, Midsize, Navigation System, Parking assist, Power Passenger Seat, Power Windows, Premium Sound System, Premium Wheels, Rear Heated Seats, Rear Spoiler, Rearview Camera, Remote Engine Start, Roof Rack, Satellite Radio, Side Air Bag, Steering Wheel Controls, Sunro, Sunroof"
+}

@@ -1,0 +1,3755 @@
+[{
+    "555610609": {
+        "accelerate": false,
+        "carSchemaOwnerImage": "https://images.autotrader.com/images/direct/dealer_photo/2020/04/27/70616565/1588029182997/Ford_TO.png.jpg",
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "Only 8,364 Miles! Scores 31 Highway MPG and 23 City MPG! This Ford Escape boasts a Intercooled Turbo Premium Unleaded I-4 2.0 L/122 engine p..."
+        },
+        "features": ["10 Speakers", "3.47 Axle Ratio", "4-Wheel Disc Brakes", "ABS brakes", "AM/FM radio: SiriusXM", "Air Conditioning", "AppLink/Apple CarPlay and Android Auto", "Auto High-beam Headlights", "Auto-dimming Rear-View mirror", "Automatic temperature control", "Brake assist", "Bumpers: body-color", "Compass", "Delay-off headlights", "Driver door bin", "Driver vanity mirror", "Dual front impact airbags", "Dual front side impact airbags", "Electronic Stability Control", "Emergency communication system: SYNC 3 911 Assist", "Exterior Parking Camera Rear", "FordPass Connect", "Four wheel independent suspension", "Front Bucket Seats", "Front Center Armrest", "Front anti-roll bar", "Front beverage holders", "Front dual zone A/C", "Front fog lights", "Front reading lights", "Fully Detailed", "Fully Inspected", "Fully automatic headlights", "Garage door transmitter", "Heated Leather-Trimmed Front Sport Contour Seats", "Heated door mirrors", "Heated front seats", "Heated steering wheel", "Illuminated entry", "Knee airbag", "Leather steering wheel", "Low tire pressure warning", "Memory seat", "Navigation System", "Occupant sensing airbag", "Outside temperature display", "Overhead airbag", "Overhead console", "Panic alarm", "Passenger door bin", "Passenger vanity mirror", "Power Liftgate", "Power door mirrors", "Power driver seat", "Power passenger seat", "Power steering", "Power windows", "Radio data system", "Radio: B&O Sound System by Bang & Olufsen", "Rain sensing wipers", "Rear anti-roll bar", "Rear reading lights", "Rear seat center armrest", "Rear window defroster", "Rear window wiper", "Recent Oil Change", "Remote keyless entry", "Roof rack: rails only", "SYNC 3 Communications & Entertainment System", "Security system", "Speed control", "Speed-Sensitive Wipers", "Speed-sensing steering", "Split folding rear seat", "Spoiler", "Steering wheel mounted audio controls", "Tachometer", "Telescoping steering wheel", "Tilt steering wheel", "Traction control", "Trip computer", "Turn signal indicator mirrors", "Variably intermittent wipers", "Voice-Activated Touchscreen Navigation System", "Wheels: 19\" Machined-Face Aluminum", "Wireless Charging Pad"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 555610609,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2020 Ford Escape AWD Titanium - 555610609",
+                "src": "//images.autotrader.com/hn/c/8fc6fc32757b41e6bb9455dd76fa366c.jpg",
+                "title": "Used 2020 Ford Escape AWD Titanium"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "Ford",
+        "makeCode": "FORD",
+        "model": "Escape",
+        "modelCode": "ESCAPE",
+        "owner": 70616565,
+        "ownerName": "DCH Ford of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8054093767",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-06-30",
+        "pricingDetail": {
+            "assetType": "NONE",
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$23,854",
+            "first": "$23,854",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "primary": 23854,
+            "salePrice": 23854,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/XyH-NhVqTygK0rxATePajt66JQkzZiJI7mhUN8tjxwiFibsT1BTS7aUZ0FWX67Oh1hmQffniZOhyQQtr93qozhhA_lOORW1hRjw",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Adaptive Cruise Control", "Alarm System", "Android Auto", "Apple CarPlay", "Blind Spot Alert", "Bluetooth, Hands-Free", "Brake Assist", "Compact", "Cruise Control", "Entertainment System", "Fog Lights", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Keyless Start", "Lane Departure Warning", "Leather Seats", "Leather Wrapped Steering Wheel", "Navigation System", "Parking assist", "Power Passenger Seat", "Power Windows", "Premium Sound System", "Premium Wheels", "Rear Spoiler", "Rearview Camera", "Remote Engine Start", "Roof Rack", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "WiFi Hotspot"],
+        "specifications": {
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Gold"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "23 City / 31 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder Turbo"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "All wheel drive"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "8,364"
+            }
+        },
+        "stockNumber": "FXR16778",
+        "style": ["Sport Utility"],
+        "title": "Used 2020 Ford Escape AWD Titanium",
+        "trim": "AWD Titanium",
+        "type": "Used",
+        "vin": "1FMCU9J94LUB08150",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=555610609&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=FORD&modelCode1=ESCAPE"
+        },
+        "year": 2020,
+        "zip": "91362"
+    },
+    "555619592": {
+        "accelerate": false,
+        "carSchemaOwnerImage": "https://images.autotrader.com/images/direct/dealer_photo/2020/11/13/69743879/1605273699192/thumbnail.jpg",
+        "dealerConfig": {},
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 555619592,
+        "images": {
+            "primary": 0,
+            "sources": [{
+                "alt": "New 2020 Dodge Charger GT - 555619592",
+                "src": "https://images.autotrader.com/hn/c/2a48f46730034cbda29f1c044763070e.jpg",
+                "title": "New 2020 Dodge Charger GT"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": false,
+        "isReducedPrice": false,
+        "make": "Dodge",
+        "makeCode": "DODGE",
+        "model": "Charger",
+        "modelCode": "DODCHAR",
+        "owner": 69743879,
+        "ownerName": "AutoNation Chrysler Dodge Jeep Ram Valencia",
+        "priceValidUntil": "2021-06-30",
+        "pricingDetail": {
+            "msrp": 33490,
+            "noPriceLabel": "Contact Dealer For Price",
+            "salePrice": 26995
+        },
+        "quickViewFeatures": ["Alarm System", "Android Auto", "Apple CarPlay", "Auxiliary Audio Input", "Bluetooth, Hands-Free", "Brake Assist", "Cruise Control", "Fog Lights", "Fullsize", "Keyless Entry", "Keyless Start", "Leather Wrapped Steering Wheel", "Parking assist", "Power Passenger Seat", "Power Windows", "Premium Sound System", "Premium Wheels", "Rear Spoiler", "Rearview Camera", "Remote Engine Start", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls"],
+        "specifications": {
+            "color": {
+                "label": "Color",
+                "value": "Black"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "19 City / 30 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "6-Cylinder"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - rear"
+            },
+            "mileage": {}
+        },
+        "style": ["Sedan"],
+        "title": "New 2020 Dodge Charger GT",
+        "trim": "GT",
+        "type": "New",
+        "vin": "2C3CDXHG5LH167888",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=555619592&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100"
+        },
+        "year": 2020,
+        "typeCode": "NEW",
+        "birf": {
+            "isPhotoAvailable": "y",
+            "make": "DODGE",
+            "model": "DODCHAR",
+            "spotlightId": "48463934",
+            "spotlightType": "P",
+            "stockNumber": "LH167888"
+        },
+        "special": {
+            "logo": {},
+            "name": "$4500 Cash Back",
+            "showExpiringSoon": false,
+            "specialsCTA": {
+                "href": "/special-offers/newcarlanding.xhtml?&dealerId=69743879&carId=555619592&specialId=105318094"
+            }
+        },
+        "spotlightType": "LISTING"
+    },
+    "557106770": {
+        "accelerate": false,
+        "description": {
+            "label": "New 2020 Subaru Outback"
+        },
+        "hasSpecialOffer": true,
+        "id": 557106770,
+        "images": {
+            "hasStockPhoto": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "New 2020 Subaru Outback Premium - 557106770",
+                "src": "https://images.autotrader.com/hn/c/93f424e383da44faa7803810fa6f80d7.jpg",
+                "title": "New 2020 Subaru Outback Premium"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": false,
+        "isReducedPrice": false,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Outback",
+        "modelCode": "SUBOUTBK",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8052679985",
+            "isVisible": true
+        },
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": true,
+            "derived": "28802",
+            "first": "$28,802.00",
+            "incentive": 0,
+            "msrp": 32378,
+            "primary": 28802,
+            "salePrice": 28802,
+            "specialOffers": 1
+        },
+        "specifications": {
+            "mileage": {
+                "label": "miles",
+                "value": "5"
+            }
+        },
+        "stockNumber": "L3237882",
+        "title": "New 2020 Subaru Outback Premium",
+        "trim": "Premium",
+        "type": "New",
+        "vin": "4S4BTACC1L3237882",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=557106770&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100"
+        },
+        "year": 2020,
+        "typeCode": "NEW"
+    },
+    "559531573": {
+        "accelerate": true,
+        "carSchemaOwnerImage": "https://images.autotrader.com/images/direct/dealer_photo/2020/04/09/72457347/1586476100248/Bunnin.jpg",
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "PRICE DROP FROM $18,996, PRICED TO MOVE $1,700 below Kelley Blue Book!, EPA 31 MPG Hwy/26 MPG City! Chevrolet Certified, CARFAX 1-Owner, Exc..."
+        },
+        "features": ["A/C", "ABS", "AM/FM Stereo", "AUDIO SYSTEM  CHEVROLET INFOTAINMENT SYSTEM  with 7\" diagonal color touch-screen  AM/FM stereo voice pass-through technology  includes Bluetooth streaming audio for music and select phones; featuring Android Auto and Apple CarPlay capability for compatibl", "AXLE  3.53 FINAL DRIVE RATIO  (STD)", "Adjustable Steering Wheel", "Aluminum Wheels", "Automatic Headlights", "Auxiliary Audio Input", "Back-Up Camera", "Bluetooth Connection", "Bucket Seats", "Cargo Shade", "Child Safety Locks", "Cloth Seats", "Cruise Control", "Daytime Running Lights", "Driver Adjustable Lumbar", "Driver Air Bag", "Driver Vanity Mirror", "ENGINE  ECOTEC TURBO 1.4L VARIABLE VALVE TIMING DOHC 4-CYLINDER SEQUENTIAL MFI  (138 hp [102.9 kW] @ 4900 rpm  148 lb-ft of torque [199.8 N-m] @ 1850 rpm) (STD)", "Floor Mats", "Front Disc/Rear Drum Brakes", "Front Head Air Bag", "Front Side Air Bag", "Front Wheel Drive", "Heated Mirrors", "Intermittent Wipers", "JET BLACK  DELUXE CLOTH SEAT TRIM", "Keyless Entry", "Knee Air Bag", "LICENSE PLATE BRACKET  FRONT", "LT PREFERRED EQUIPMENT GROUP  Includes Standard Equipment", "MOSAIC BLACK METALLIC", "MP3 Player", "Pass-Through Rear Seat", "Passenger Air Bag", "Passenger Air Bag Sensor", "Passenger Vanity Mirror", "Power Door Locks", "Power Mirror(s)", "Power Outlet", "Power Steering", "Power Windows", "Privacy Glass", "Rear Defrost", "Rear Head Air Bag", "Remote Engine Start", "Requires Subscription", "SEATS  FRONT BUCKET WITH DRIVER POWER LUMBAR  (STD)", "Satellite Radio", "Security System", "Smart Device Integration", "Stability Control", "Steering Wheel Audio Controls", "TIRES  P205/70R16 ALL-SEASON  BLACKWALL", "TRANSMISSION  6-SPEED AUTOMATIC  (STD)", "Telematics", "Temporary Spare Tire", "Tire Pressure Monitor", "Tires - Front All-Season", "Tires - Rear All-Season", "Traction Control", "Turbocharged", "WHEELS  16\" (40.6 CM) ALUMINUM  (STD)", "WiFi Hotspot"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 559531573,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2019 Chevrolet Trax FWD LT w/ 1LT - 559531573",
+                "src": "//images.autotrader.com/hn/c/c4c0e99153f246068eccb217b6c396d9.jpg",
+                "title": "Used 2019 Chevrolet Trax FWD LT w/ 1LT"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "Chevrolet",
+        "makeCode": "CHEV",
+        "model": "Trax",
+        "modelCode": "CHETRAX",
+        "owner": 72457347,
+        "ownerName": "Bunnin Chevrolet of Santa Paula",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8053176045",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-08-11",
+        "pricingDetail": {
+            "assetType": "SUBTRACT",
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$15,995",
+            "first": "$15,995",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "payments": {
+                "label": "Est. Finance Payment",
+                "paymentDisclaimer": "Estimated payment based on 2.64% APR for 72 months with $1,600 down for well qualified buyers. Terms may vary.",
+                "value": 218
+            },
+            "primary": 15995,
+            "salePrice": 15995,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "Get_CERT",
+            "epn": "autocheckno",
+            "image": {
+                "title": "Get AutoCheck Vehicle History"
+            },
+            "link": {
+                "href": "https://www.autocheck.com/vehiclehistory/?vin=3GNCJLSB0KL218513&retail=true&siteId=7100",
+                "label": "Get AutoCheck Vehicle History",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "EXPERIAN_RETAIL"
+        }],
+        "quickViewFeatures": ["Alarm System", "Android Auto", "Apple CarPlay", "Auxiliary Audio Input", "Bluetooth, Hands-Free", "Brake Assist", "Compact", "Cruise Control", "Infotainment System", "Keyless Entry", "Power Passenger Seat", "Power Windows", "Premium Sound System", "Premium Wheels", "Rear Spoiler", "Rearview Camera", "Remote Engine Start", "Roof Rack", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "Telematics", "WiFi Hotspot"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Jet Black"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Black"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "26 City / 31 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder Turbo"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - front"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "7,543"
+            }
+        },
+        "stockNumber": "20451A",
+        "style": ["Sport Utility"],
+        "title": "Used 2019 Chevrolet Trax FWD LT w/ 1LT",
+        "trim": "FWD LT w/ 1LT",
+        "type": "Used",
+        "vin": "3GNCJLSB0KL218513",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=559531573&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=CHEV&modelCode1=CHETRAX"
+        },
+        "year": 2019,
+        "zip": "93060"
+    },
+    "559915017": {
+        "accelerate": false,
+        "description": {
+            "label": "New 2021 Subaru Crosstrek"
+        },
+        "hasSpecialOffer": true,
+        "id": 559915017,
+        "images": {
+            "hasStockPhoto": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "New 2021 Subaru Crosstrek 2.5i Limited - 559915017",
+                "src": "https://images.autotrader.com/hn/c/8ae0a42977ae40b59b0cf1206ba0f5bc.jpg",
+                "title": "New 2021 Subaru Crosstrek 2.5i Limited"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": false,
+        "isReducedPrice": false,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Crosstrek",
+        "modelCode": "SUBCRSSTRK",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8052679985",
+            "isVisible": true
+        },
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": true,
+            "derived": "29989",
+            "first": "$29,989.00",
+            "incentive": 0,
+            "msrp": 32369,
+            "primary": 29989,
+            "salePrice": 29989,
+            "specialOffers": 1
+        },
+        "specifications": {
+            "mileage": {
+                "label": "miles",
+                "value": "5"
+            }
+        },
+        "stockNumber": "M8200127",
+        "title": "New 2021 Subaru Crosstrek 2.5i Limited",
+        "trim": "2.5i Limited",
+        "type": "New",
+        "vin": "JF2GTHNC3M8200127",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=559915017&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100"
+        },
+        "year": 2021,
+        "typeCode": "NEW"
+    },
+    "559915019": {
+        "accelerate": false,
+        "description": {
+            "label": "New 2021 Subaru Crosstrek"
+        },
+        "hasSpecialOffer": true,
+        "id": 559915019,
+        "images": {
+            "hasStockPhoto": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "New 2021 Subaru Crosstrek 2.5i Limited - 559915019",
+                "src": "https://images.autotrader.com/hn/c/fdd778b3cfca4506872701000d1ebcc6.jpg",
+                "title": "New 2021 Subaru Crosstrek 2.5i Limited"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": false,
+        "isReducedPrice": false,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Crosstrek",
+        "modelCode": "SUBCRSSTRK",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8052679985",
+            "isVisible": true
+        },
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": true,
+            "derived": "28750",
+            "first": "$28,750.00",
+            "incentive": 0,
+            "msrp": 30974,
+            "primary": 28750,
+            "salePrice": 28750,
+            "specialOffers": 1
+        },
+        "specifications": {
+            "mileage": {
+                "label": "miles",
+                "value": "5"
+            }
+        },
+        "stockNumber": "M8200239",
+        "title": "New 2021 Subaru Crosstrek 2.5i Limited",
+        "trim": "2.5i Limited",
+        "type": "New",
+        "vin": "JF2GTHMC1M8200239",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=559915019&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100"
+        },
+        "year": 2021,
+        "typeCode": "NEW"
+    },
+    "560172094": {
+        "accelerate": false,
+        "description": {
+            "label": "New 2020 Subaru Outback"
+        },
+        "hasSpecialOffer": true,
+        "id": 560172094,
+        "images": {
+            "hasStockPhoto": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "New 2020 Subaru Outback Premium - 560172094",
+                "src": "https://images.autotrader.com/hn/c/35aa5abd66b64e03a2a15f7b0165033a.jpg",
+                "title": "New 2020 Subaru Outback Premium"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": false,
+        "isReducedPrice": false,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Outback",
+        "modelCode": "SUBOUTBK",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8052679985",
+            "isVisible": true
+        },
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": true,
+            "derived": "28218",
+            "first": "$28,218.00",
+            "incentive": 0,
+            "msrp": 34215,
+            "primary": 28218,
+            "salePrice": 28218,
+            "specialOffers": 1
+        },
+        "specifications": {
+            "mileage": {
+                "label": "miles",
+                "value": "5"
+            }
+        },
+        "stockNumber": "L3255451",
+        "title": "New 2020 Subaru Outback Premium",
+        "trim": "Premium",
+        "type": "New",
+        "vin": "4S4BTAEC2L3255451",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=560172094&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100"
+        },
+        "year": 2020,
+        "typeCode": "NEW"
+    },
+    "560924906": {
+        "accelerate": false,
+        "description": {
+            "label": "New 2021 Subaru Crosstrek"
+        },
+        "hasSpecialOffer": true,
+        "id": 560924906,
+        "images": {
+            "hasStockPhoto": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "New 2021 Subaru Crosstrek 2.5i Limited - 560924906",
+                "src": "https://images.autotrader.com/hn/c/d5e8e6d380584868801b3a9d54958a65.jpg",
+                "title": "New 2021 Subaru Crosstrek 2.5i Limited"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": false,
+        "isReducedPrice": false,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Crosstrek",
+        "modelCode": "SUBCRSSTRK",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8052679985",
+            "isVisible": true
+        },
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": true,
+            "derived": "28820",
+            "first": "$28,820.00",
+            "incentive": 0,
+            "msrp": 31082,
+            "primary": 28820,
+            "salePrice": 28820,
+            "specialOffers": 1
+        },
+        "specifications": {
+            "mileage": {
+                "label": "miles",
+                "value": "5"
+            }
+        },
+        "stockNumber": "M8217464",
+        "title": "New 2021 Subaru Crosstrek 2.5i Limited",
+        "trim": "2.5i Limited",
+        "type": "New",
+        "vin": "JF2GTHMC5M8217464",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=560924906&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100"
+        },
+        "year": 2021,
+        "typeCode": "NEW"
+    },
+    "561137237": {
+        "accelerate": false,
+        "description": {
+            "label": "New 2021 Subaru Crosstrek"
+        },
+        "hasSpecialOffer": true,
+        "id": 561137237,
+        "images": {
+            "hasStockPhoto": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "New 2021 Subaru Crosstrek 2.5i Limited - 561137237",
+                "src": "https://images.autotrader.com/hn/c/21fec57865884f28ba9a10a1b97af9b4.jpg",
+                "title": "New 2021 Subaru Crosstrek 2.5i Limited"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": false,
+        "isReducedPrice": false,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Crosstrek",
+        "modelCode": "SUBCRSSTRK",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8052679985",
+            "isVisible": true
+        },
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": true,
+            "derived": "28932",
+            "first": "$28,932.00",
+            "incentive": 0,
+            "msrp": 34077,
+            "primary": 28932,
+            "salePrice": 28932,
+            "specialOffers": 1
+        },
+        "specifications": {
+            "mileage": {
+                "label": "miles",
+                "value": "12"
+            }
+        },
+        "stockNumber": "M8215479",
+        "title": "New 2021 Subaru Crosstrek 2.5i Limited",
+        "trim": "2.5i Limited",
+        "type": "New",
+        "vin": "JF2GTHMC8M8215479",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=561137237&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100"
+        },
+        "year": 2021,
+        "typeCode": "NEW"
+    },
+    "561446011": {
+        "accelerate": true,
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "Only 3,926 Miles! Delivers 27 Highway MPG and 20 City MPG! This Nissan Pathfinder delivers a Regular Unleaded V-6 3.5 L/213 engine powering ..."
+        },
+        "features": ["3rd Row Seat", "4-Wheel Disc Brakes", "A/C", "ABS", "AM/FM Stereo", "Adaptive Cruise Control", "Adjustable Steering Wheel", "Aluminum Wheels", "Auto-Dimming Rearview Mirror", "Automatic Headlights", "Auxiliary Audio Input", "Back-Up Camera", "Blind Spot Monitor", "Bluetooth Connection", "Brake Actuated Limited Slip Differential", "Brake Assist", "Bucket Seats", "CD Player", "Child Safety Locks", "Climate Control", "Cross-Traffic Alert", "Cruise Control", "Daytime Running Lights", "Driver Adjustable Lumbar", "Driver Air Bag", "Driver Illuminated Vanity Mirror", "Driver Vanity Mirror", "Engine Immobilizer", "Fog Lamps", "Front Head Air Bag", "Front Side Air Bag", "Front Wheel Drive", "HD Radio", "Hands-Free Liftgate", "Heated Front Seat(s)", "Heated Mirrors", "Heated Rear Seat(s)", "Heated Steering Wheel", "Integrated Turn Signal Mirrors", "Intermittent Wipers", "Keyless Entry", "Keyless Start", "Leather Seats", "Leather Steering Wheel", "MP3 Player", "Mirror Memory", "Multi-Zone A/C", "Navigation System", "Pass-Through Rear Seat", "Passenger Air Bag", "Passenger Air Bag Sensor", "Passenger Illuminated Visor Mirror", "Passenger Vanity Mirror", "Power Door Locks", "Power Driver Seat", "Power Liftgate", "Power Mirror(s)", "Power Passenger Seat", "Power Steering", "Power Windows", "Privacy Glass", "ROCK CREEK  UNIQUE ROCK CREEK EDITION SEATING SURFACES  -inc: badging", "Rear A/C", "Rear Bench Seat", "Rear Defrost", "Rear Head Air Bag", "Rear Parking Aid", "Rear Spoiler", "Remote Engine Start", "Remote Trunk Release", "Requires Subscription", "SCARLET EMBER TINTCOAT", "Satellite Radio", "Seat Memory", "Security System", "Stability Control", "Steering Wheel Audio Controls", "Telematics", "Temporary Spare Tire", "Tire Pressure Monitor", "Tires - Front All-Season", "Tires - Rear All-Season", "Traction Control", "Trip Computer", "Universal Garage Door Opener", "Variable Speed Intermittent Wipers", "[H01] SL ROCK CREEK EDITION PREMIUM PACKAGE  -inc: Bose Premium Audio System  13 speakers  A-pillar speakers  D-pillar speakers  center channel speaker and dual-speaker subwoofer  Power Panoramic Moonroof  one-touch tilt/open/close controls (front)  sunsh", "[K01] ROCK CREEK EDITION  -inc: black model  grade  4WD badges (if so equipped) and high contrast stitching on seat  door  console lid and steering wheel  Black License Plate Finisher  black front and rear fascia accents  Trailer Tow Hitch & Harness  Blac", "[L93] ROCK CREEK FLOOR & CARGO MATS", "[N10] FRONT ILLUMINATED KICK PLATES"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 561446011,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2019 Nissan Pathfinder SL - 561446011",
+                "src": "//images.autotrader.com/hn/c/18da9da1e6ca4674a975dc305915ce98.jpg",
+                "title": "Used 2019 Nissan Pathfinder SL"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "Nissan",
+        "makeCode": "NISSAN",
+        "model": "Pathfinder",
+        "modelCode": "PATH",
+        "owner": 72865995,
+        "ownerName": "Bunnin Chevrolet of Fillmore",
+        "packages": ["SL Rock Creek Edition Premium Package", "Rock Creek Edition"],
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8057742148",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-08-31",
+        "pricingDetail": {
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$28,888",
+            "first": "$28,888",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "payments": {
+                "label": "Est. Finance Payment",
+                "paymentDisclaimer": "Estimated payment based on 6.84% APR for 84 months with $2,889 down for well qualified buyers. Terms may vary.",
+                "value": 390
+            },
+            "primary": 28888,
+            "salePrice": 28888,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/WHsg2HjqYoKZmrVxdDfXwedKNTRb2uFvRHyv6Pk-5alCXan5vABzFJGprwGpn3-UaKj2FvZdUxBaZ5kZgAo5bnyY4gwiNES96Bg",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["3rd-Row Seats", "Adaptive Cruise Control", "Alarm System", "Auxiliary Audio Input", "Blind Spot Alert", "Bluetooth, Hands-Free", "Brake Assist", "Cross Traffic Alert", "Cruise Control", "Fog Lights", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Keyless Start", "Leather Wrapped Steering Wheel", "Midsize", "Navigation System", "Parking assist", "Power Passenger Seat", "Power Windows", "Premium Sound System", "Premium Wheels", "Rear Heated Seats", "Rear Spoiler", "Rearview Camera", "Remote Engine Start", "Roof Rack", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "Sunro", "Sunroof"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Rock Creek"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Red"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "20 City / 27 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "6-Cylinder"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - front"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "3,926"
+            }
+        },
+        "stockNumber": "102",
+        "style": ["Sport Utility"],
+        "title": "Used 2019 Nissan Pathfinder SL",
+        "trim": "SL",
+        "type": "Used",
+        "vin": "5N1DR2MN7KC652488",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=561446011&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=NISSAN&modelCode1=PATH"
+        },
+        "year": 2019,
+        "zip": "93015"
+    },
+    "561569406": {
+        "accelerate": false,
+        "carSchemaOwnerImage": "https://images.autotrader.com/images/direct/dealer_photo/2019/03/07/64980369/1551979294006/3d2ec2b24f2c4f098f665dceaa930ac4_1_.jpg",
+        "dealerConfig": {},
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 561569406,
+        "images": {
+            "primary": 0,
+            "sources": [{
+                "alt": "New 2020 Volkswagen Passat 2.0T SE - 561569406",
+                "src": "https://images.autotrader.com/hn/c/e81316cb0fcf48d8936fa8f47436d939.jpg",
+                "title": "New 2020 Volkswagen Passat 2.0T SE"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": false,
+        "isReducedPrice": false,
+        "make": "Volkswagen",
+        "makeCode": "VOLKS",
+        "model": "Passat",
+        "modelCode": "PASS",
+        "owner": 64980369,
+        "ownerName": "Volkswagen South Coast",
+        "priceValidUntil": "2021-11-21",
+        "pricingDetail": {
+            "msrp": 27099,
+            "noPriceLabel": "Contact Dealer For Price",
+            "salePrice": 27099
+        },
+        "quickViewFeatures": ["Adaptive Cruise Control", "Alarm System", "Android Auto", "Apple CarPlay", "Auxiliary Audio Input", "Blind Spot Alert", "Bluetooth, Hands-Free", "Brake Assist", "Cruise Control", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Keyless Start", "Lane Departure Warning", "Leather Wrapped Steering Wheel", "Midsize", "Power Passenger Seat", "Power Windows", "Premium Wheels", "Rearview Camera", "Remote Engine Start", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls"],
+        "specifications": {
+            "color": {
+                "label": "Color",
+                "value": "White"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "23 City / 34 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder Turbo"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - front"
+            },
+            "mileage": {}
+        },
+        "style": ["Sedan"],
+        "title": "New 2020 Volkswagen Passat 2.0T SE",
+        "trim": "2.0T SE",
+        "type": "New",
+        "vin": "1VWSA7A36LC024052",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=561569406&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100"
+        },
+        "year": 2020,
+        "typeCode": "NEW",
+        "birf": {
+            "isPhotoAvailable": "y",
+            "make": "VOLKS",
+            "model": "PASS",
+            "spotlightId": "2441364604",
+            "spotlightType": "P",
+            "stockNumber": "56021T"
+        },
+        "special": {
+            "logo": {},
+            "name": "0.00% APR for 72 Mos. for qualified buyers",
+            "showExpiringSoon": false,
+            "specialsCTA": {
+                "href": "/special-offers/newcarlanding.xhtml?&dealerId=64980369&carId=561569406&specialId=104651914"
+            }
+        },
+        "spotlightType": "LISTING"
+    },
+    "562757961": {
+        "accelerate": false,
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "Silver 2019 Ford Ranger XLT RWD 10-Speed Automatic EcoBoost 2.3L I4 GTDi DOHC Turbocharged VCT ABS brakes, Alloy wheels, Compass, Electronic..."
+        },
+        "features": ["4 Cylinder Engine", "4-Wheel ABS", "4-Wheel Disc Brakes", "A/C", "AM/FM Stereo", "Adjustable Steering Wheel", "Auto Transmission w/Manual Mode", "Auto-Off Headlights", "Back-Up Camera", "Blind Spot Monitor", "Brake Assist", "Bucket Seats", "Child Safety Locks", "Cloth Seats", "Cross-Traffic Alert", "Cruise Control", "Daytime Running Lights", "Driver Air Bag", "Driver Lumbar", "Dual Zone A/C", "Electrochromic rearview mirror", "Electronic Stability Control", "Fog Lamps", "Front Floor Mats", "Front Tow Hooks", "Full Size Spare Tire", "Gasoline Fuel", "Intermittent Wipers", "Keyless Entry", "Lane Keeping Assist", "Leather Wrapped Steering Wheel", "MP3 Player", "Onboard Communications System", "Passenger Air Bag", "Passenger Vanity Mirror", "Power Door Locks", "Power Driver Mirror", "Power Steering", "Power Windows", "Privacy Glass", "Rear Defrost", "Rear Head Air Bag", "Rear Wheel Drive", "Remote Engine Start", "Satellite Radio", "Side Head Air Bag", "Smart Device Integration", "Steering Wheel Controls", "Tire Pressure Monitoring System", "Tires - Front All-Season", "Tires - Rear All-Season", "Trailer Hitch", "Trip Computer", "Turbocharged", "Variable Speed Intermittent Wipers", "Vehicle Anti-Theft System", "WiFi Hotspot", "iPod/MP3 Input"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 562757961,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2019 Ford Ranger 2WD SuperCrew - 562757961",
+                "src": "//images.autotrader.com/hn/c/f7a751bfa7214feb88180f1622f909d8.jpg",
+                "title": "Used 2019 Ford Ranger 2WD SuperCrew"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "Ford",
+        "makeCode": "FORD",
+        "model": "Ranger",
+        "modelCode": "RANGER",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8056016496",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-09-14",
+        "pricingDetail": {
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$27,661",
+            "first": "$27,661",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "primary": 27661,
+            "salePrice": 27661,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/U1UX7_FXtsyKgWV7Myjba3tKPcmPJgkDDC4wBIyvPFDXmQmrIE_Or2nOz4miN05ckHyVsNPmEZQJgYIPyAlHyJs8ULJN2XWEhQQ",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["60-Inch Bed", "Alarm System", "Blind Spot Alert", "Bluetooth, Hands-Free", "Brake Assist", "Collision Warning", "Compact Crew Cab", "Cruise Control", "Entertainment System", "Fog Lights", "Infotainment System", "Keyless Entry", "Lane Departure Warning", "Leather Wrapped Steering Wheel", "Parking assist", "Power Windows", "Premium Wheels", "Rearview Camera", "Remote Engine Start", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "Telematics", "Trailer Hitch", "WiFi Hotspot"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Ebony"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Silver"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "21 City / 26 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder Turbo"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - rear"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "9,213"
+            }
+        },
+        "stockNumber": "KLA49676A",
+        "style": ["Truck"],
+        "title": "Used 2019 Ford Ranger 2WD SuperCrew",
+        "trim": "2WD SuperCrew",
+        "type": "Used",
+        "vin": "1FTER4EHXKLA49676",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=562757961&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=FORD&modelCode1=RANGER"
+        },
+        "year": 2019,
+        "zip": "91362"
+    },
+    "562757975": {
+        "accelerate": false,
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "Gray 2017 Honda Pilot EX-L FWD 6-Speed Automatic 3.5L V6 24V SOHC i-VTEC Priced below KBB Fair Purchase Price! Odometer is 11198 miles below..."
+        },
+        "features": ["4-Wheel ABS", "4-Wheel Disc Brakes", "6-Speed A/T", "AM/FM Stereo", "Adjustable Steering Wheel", "Aluminum Wheels", "Apple CarPlay", "Auto-Off Headlights", "Back-Up Camera", "Bluetooth", "Brake Assist", "Bucket Seats", "Child Safety Locks", "Compact Spare Tire", "Cruise Control", "Daytime Running Lights", "Driver Air Bag", "Driver Illuminated Vanity Mirror", "Driver Lumbar", "Driver Vanity Mirror", "Dual Zone A/C", "Electrochromic rearview mirror", "Electronic Stability Control", "Fog Lamps", "Front Floor Mats", "Front Wheel Drive", "Gasoline Fuel", "Heated Driver Seat", "Intermittent Wipers", "Keyless Entry", "Leather Seats", "Leather Wrapped Steering Wheel", "MP3 Player", "Pass-Through Rear Seat", "Passenger Air Bag", "Passenger Illuminated Visor Mirror", "Passenger Vanity Mirror", "Power Door Locks", "Power Driver Mirror", "Power Driver Seat", "Power Liftgate", "Power Passenger Seat", "Power Steering", "Power Windows", "Privacy Glass", "Rear Air", "Rear Defrost", "Rear Head Air Bag", "Rear Spoiler", "Remote Engine Start", "Remote Trunk Release", "Satellite Radio", "Side Head Air Bag", "Smart Device Integration", "Steering Wheel Controls", "Sunroof", "Third Row Seat", "Tire Pressure Monitoring System", "Tires - Front All-Season", "Tires - Rear All-Season", "Trip Computer", "Universal Garage Door Opener", "V6 Cylinder Engine", "Variable Speed Intermittent Wipers", "Vehicle Anti-Theft System", "iPod/MP3 Input"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 562757975,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2017 Honda Pilot FWD EX-L - 562757975",
+                "src": "//images.autotrader.com/hn/c/283b55a5f0f149f8b9be04f4cf6f9a4c.jpg",
+                "title": "Used 2017 Honda Pilot FWD EX-L"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "Honda",
+        "makeCode": "HONDA",
+        "model": "Pilot",
+        "modelCode": "PILOT",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8056016496",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-09-14",
+        "pricingDetail": {
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$24,969",
+            "first": "$24,969",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "primary": 24969,
+            "salePrice": 24969,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/cJ0LdtMwvijRyRXB6LQY9BwugVECqPqveWji5CMa_aSqHfBGUmcyjq7dODiNeSSbFbDzuRZibGpayw95tRLMs0eur6bAxalXTgM",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["3rd-Row Seats", "Alarm System", "Android Auto", "Apple CarPlay", "Auxiliary Audio Input", "Bluetooth, Hands-Free", "Brake Assist", "Cruise Control", "Fog Lights", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Keyless Start", "Leather Seats", "Leather Wrapped Steering Wheel", "Midsize", "Moonroof", "Power Passenger Seat", "Power Windows", "Premium Wheels", "Rear Spoiler", "Rearview Camera", "Remote Engine Start", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "Sunroof"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Black"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Gray"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "19 City / 27 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "6-Cylinder"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - front"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "25,925"
+            }
+        },
+        "stockNumber": "HB045806A",
+        "style": ["Sport Utility"],
+        "title": "Used 2017 Honda Pilot FWD EX-L",
+        "trim": "FWD EX-L",
+        "type": "Used",
+        "vin": "5FNYF5H59HB045806",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=562757975&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=HONDA&modelCode1=PILOT"
+        },
+        "year": 2017,
+        "zip": "91362"
+    },
+    "562840493": {
+        "accelerate": false,
+        "certifiedTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "Subaru_CERT",
+            "epn": "CERT",
+            "image": {
+                "src": "/resources/img/sponsoredCert/cpo/121685.gif",
+                "title": "Subaru Certified Pre-Owned"
+            },
+            "link": {
+                "href": "http://www.subaru.com/vehicles/certified-pre-owned.html",
+                "label": "Subaru Certified Pre-Owned",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CERTIFIED_CAR"
+        }],
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "Dark Gray Metallic 2017 Subaru Forester 2.5i Limited AWD Lineartronic CVT 2.5L 4-Cylinder DOHC 16V VVT Priced below KBB Fair Purchase Price!..."
+        },
+        "features": ["4 Cylinder Engine", "4-Wheel ABS", "4-Wheel Disc Brakes", "A/C", "AM/FM Stereo", "Adjustable Steering Wheel", "All Wheel Drive", "Aluminum Wheels", "Auto-Off Headlights", "Back-Up Camera", "Blind Spot Monitor", "Brake Assist", "Bucket Seats", "CD Player", "Child Safety Locks", "Climate Control", "Compact Spare Tire", "Continuously Variable Trans", "Cross-Traffic Alert", "Cruise Control", "Daytime Running Lights", "Driver Air Bag", "Driver Illuminated Vanity Mirror", "Driver Lumbar", "Driver Vanity Mirror", "Electrochromic rearview mirror", "Electronic Stability Control", "Fog Lamps", "Front Floor Mats", "Gasoline Fuel", "Heated Driver Seat", "Heated Mirrors", "Intermittent Wipers", "Keyless Entry", "Leather Seats", "Leather Wrapped Steering Wheel", "MP3 Player", "Onboard Communications System", "Panoramic Roof", "Pass-Through Rear Seat", "Passenger Air Bag", "Passenger Illuminated Visor Mirror", "Passenger Vanity Mirror", "Power Door Locks", "Power Driver Mirror", "Power Driver Seat", "Power Liftgate", "Power Steering", "Power Windows", "Privacy Glass", "Rear Defrost", "Rear Head Air Bag", "Rear Spoiler", "Remote Trunk Release", "Satellite Radio", "Side Head Air Bag", "Smart Device Integration", "Steering Wheel Controls", "Sunroof", "Tire Pressure Monitoring System", "Tires - Front All-Season", "Tires - Rear All-Season", "Trip Computer", "Universal Garage Door Opener", "Variable Speed Intermittent Wipers", "Vehicle Anti-Theft System", "iPod/MP3 Input"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 562840493,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Certified 2017 Subaru Forester 2.5i Limited - 562840493",
+                "src": "//images.autotrader.com/hn/c/b3ba8b620e194389ac1a7aaa8ea5af19.jpg",
+                "title": "Certified 2017 Subaru Forester 2.5i Limited"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Forester",
+        "modelCode": "FOREST",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8056016496",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-09-15",
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$21,516",
+            "first": "$21,516",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "primary": 21516,
+            "salePrice": 21516,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/vbDRvJT7Kn-XrJR2La6pMPCRUb4FHpr7cRQrowh9WuSDdS7t-yReGaVMmqgypFMms16ZnBrNPnHkamSqKjaVqvg6QNtO1VI5HCg",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Alarm System", "Auxiliary Audio Input", "Blind Spot Alert", "Bluetooth, Hands-Free", "Brake Assist", "Collision Warning", "Compact", "Cruise Control", "Fog Lights", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Leather Seats", "Leather Wrapped Steering Wheel", "Moonroof", "Power Passenger Seat", "Power Windows", "Premium Wheels", "Rear Spoiler", "Rearview Camera", "Roof Rack", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "Sunroof"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Gray"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Gray"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "26 City / 32 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "All wheel drive"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "22,843"
+            }
+        },
+        "stockNumber": "HH511090P",
+        "style": ["Sport Utility"],
+        "title": "Certified 2017 Subaru Forester 2.5i Limited",
+        "trim": "2.5i Limited",
+        "type": "Certified",
+        "vin": "JF2SJAJC1HH511090",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=562840493&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=SUB&modelCode1=FOREST"
+        },
+        "year": 2017,
+        "zip": "91362"
+    },
+    "562840494": {
+        "accelerate": false,
+        "certifiedTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "Subaru_CERT",
+            "epn": "CERT",
+            "image": {
+                "src": "/resources/img/sponsoredCert/cpo/121685.gif",
+                "title": "Subaru Certified Pre-Owned"
+            },
+            "link": {
+                "href": "http://www.subaru.com/vehicles/certified-pre-owned.html",
+                "label": "Subaru Certified Pre-Owned",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CERTIFIED_CAR"
+        }],
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "Ice Silver Metallic 2017 Subaru Outback 3.6R Limited AWD CVT Lineartronic 3.6L Boxer H6 DOHC 24V Priced below KBB Fair Purchase Price! Odome..."
+        },
+        "features": ["4-Wheel ABS", "4-Wheel Disc Brakes", "A/C", "AM/FM Stereo", "Adaptive Cruise Control", "Adjustable Steering Wheel", "All Wheel Drive", "Aluminum Wheels", "Auto-Off Headlights", "Back-Up Camera", "Blind Spot Monitor", "Brake Assist", "Bucket Seats", "Child Safety Locks", "Compact Spare Tire", "Continuously Variable Trans", "Cross-Traffic Alert", "Cruise Control", "Daytime Running Lights", "Driver Air Bag", "Driver Illuminated Vanity Mirror", "Driver Lumbar", "Driver Vanity Mirror", "Dual Zone A/C", "Electrochromic rearview mirror", "Electronic Stability Control", "Flat 6 Cylinder Engine", "Fog Lamps", "Front Floor Mats", "Gasoline Fuel", "HID headlights", "Headlights-Auto-Leveling", "Heated Driver Seat", "Heated Mirrors", "Heated Rear Seat", "Integrated Turn Signal Mirrors", "Intermittent Wipers", "Keyless Entry", "Keyless Start", "Leather Seats", "Leather Wrapped Steering Wheel", "Luggage Rack", "MP3 Player", "Navigation", "Onboard Communications System", "Pass-Through Rear Seat", "Passenger Air Bag", "Passenger Illuminated Visor Mirror", "Passenger Vanity Mirror", "Power Door Locks", "Power Driver Mirror", "Power Driver Seat", "Power Liftgate", "Power Passenger Seat", "Power Steering", "Power Windows", "Premium Sound System", "Privacy Glass", "Rear Defrost", "Rear Head Air Bag", "Rear Spoiler", "Remote Trunk Release", "Satellite Radio", "Seat Memory", "Side Head Air Bag", "Smart Device Integration", "Steering Wheel Controls", "Sunroof", "Tire Pressure Monitoring System", "Tires - Front All-Season", "Tires - Rear All-Season", "Trip Computer", "Universal Garage Door Opener", "Variable Speed Intermittent Wipers", "Vehicle Anti-Theft System", "Woodgrain Interior Trim", "iPod/MP3 Input"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 562840494,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Certified 2017 Subaru Outback 3.6R Limited - 562840494",
+                "src": "//images.autotrader.com/hn/c/8a99f2cd299f4ba28741ee915970b550.jpg",
+                "title": "Certified 2017 Subaru Outback 3.6R Limited"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Outback",
+        "modelCode": "SUBOUTBK",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "packages": ["Eyesight & Navigation & High Beam Assist & RAB", "Popular Package #5"],
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8056016496",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-09-15",
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$24,049",
+            "first": "$24,049",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "primary": 24049,
+            "salePrice": 24049,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/ZqBcYJkbM236Ok7r-qxOU1DLtU7hA2P3QIMGd0EqRJgvsiXHwLL--ROw5HDRtQu8R-otpf0wmFKmVoAdRMXPJZsrXbDfcknTqIo",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Adaptive Cruise Control", "Alarm System", "Auxiliary Audio Input", "Blind Spot Alert", "Bluetooth, Hands-Free", "Brake Assist", "Collision Warning", "Cruise Control", "Fog Lights", "HID Headlights", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Keyless Start", "Leather Seats", "Leather Wrapped Steering Wheel", "Midsize", "Moonroof", "Navigation System", "Power Passenger Seat", "Power Windows", "Premium Sound System", "Premium Wheels", "Rear Heated Seats", "Rear Spoiler", "Rearview Camera", "Roof Rack", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "Sunroof"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Slate Black"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Silver"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "20 City / 27 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "6-Cylinder"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "All wheel drive"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "24,863"
+            }
+        },
+        "stockNumber": "H3370735P",
+        "style": ["Sport Utility"],
+        "title": "Certified 2017 Subaru Outback 3.6R Limited",
+        "trim": "3.6R Limited",
+        "type": "Certified",
+        "vin": "4S4BSENC8H3370735",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=562840494&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=SUB&modelCode1=SUBOUTBK"
+        },
+        "year": 2017,
+        "zip": "91362"
+    },
+    "563113086": {
+        "accelerate": false,
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "White 2016 Toyota Prius Four FWD CVT 1.8L 4-Cylinder DOHC 16V VVT-i Priced below KBB Fair Purchase Price! Odometer is 31458 miles below mark..."
+        },
+        "features": ["4 Cylinder Engine", "4-Wheel ABS", "4-Wheel Disc Brakes", "A/C", "AM/FM Stereo", "Adjustable Steering Wheel", "Aluminum Wheels", "Auto-Off Headlights", "Back-Up Camera", "Blind Spot Monitor", "Bluetooth", "Brake Assist", "Bucket Seats", "CD Player", "Child Safety Locks", "Climate Control", "Continuously Variable Trans", "Cross-Traffic Alert", "Cruise Control", "Daytime Running Lights", "Driver Air Bag", "Driver Illuminated Vanity Mirror", "Driver Lumbar", "Driver Vanity Mirror", "Electronic Stability Control", "Front Wheel Drive", "Heated Driver Seat", "Heated Mirrors", "Hybrid", "Intermittent Wipers", "Keyless Entry", "Keyless Start", "MP3 Player", "Navigation", "Pass-Through Rear Seat", "Passenger Air Bag", "Passenger Illuminated Visor Mirror", "Passenger Vanity Mirror", "Power Door Locks", "Power Driver Mirror", "Power Driver Seat", "Power Steering", "Power Windows", "Rain Sensing Wipers", "Rear Defrost", "Rear Head Air Bag", "Satellite Radio", "Side Head Air Bag", "Smart Device Integration", "Steering Wheel Controls", "Tire Pressure Monitoring System", "Tires - Front All-Season", "Tires - Rear All-Season", "Trip Computer", "Universal Garage Door Opener", "Variable Speed Intermittent Wipers", "Vehicle Anti-Theft System", "Wheel Covers", "iPod/MP3 Input"],
+        "fuelType": "Hybrid Gas/Electric",
+        "hasSpecialOffer": false,
+        "id": 563113086,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2016 Toyota Prius Four - 563113086",
+                "src": "//images.autotrader.com/hn/c/7fd0d5ca4f4744adad5f14ac2b7c62b6.jpg",
+                "title": "Used 2016 Toyota Prius Four"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "Toyota",
+        "makeCode": "TOYOTA",
+        "model": "Prius",
+        "modelCode": "PRIUS",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8056016496",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-09-17",
+        "pricingDetail": {
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$16,901",
+            "first": "$16,901",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "primary": 16901,
+            "salePrice": 16901,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255821.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/2FRW-7gQF0N9vcaRLErd7ghAZgXLQ7o8WierYPNYl3NJtfhBYbN9m0Sjh0t4prXXEuGAuraBJSEiDlLPBjLP3h7a4NRPewZ8D4Y",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Alarm System", "Auxiliary Audio Input", "Blind Spot Alert", "Bluetooth, Hands-Free", "Brake Assist", "Collision Warning", "Cruise Control", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Keyless Start", "Lane Departure Warning", "Leather Wrapped Steering Wheel", "Midsize", "Navigation System", "Power Passenger Seat", "Power Windows", "Premium Wheels", "Rear Spoiler", "Rearview Camera", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Graphite"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "54 City / 50 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "Gas / Electric Hybrid"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - front"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "21,778"
+            }
+        },
+        "stockNumber": "G3014397P",
+        "style": ["Hatchback"],
+        "title": "Used 2016 Toyota Prius Four",
+        "trim": "Four",
+        "type": "Used",
+        "vin": "JTDKARFU4G3014397",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=563113086&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=TOYOTA&modelCode1=PRIUS"
+        },
+        "year": 2016,
+        "zip": "91362"
+    },
+    "563118001": {
+        "accelerate": true,
+        "carSchemaOwnerImage": "https://images.autotrader.com/images/direct/dealer_photo/2020/09/14/563859/1600112574494/Thousand_Oaks_Toyota_1.GIF",
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "********BLACK FRIDAY SAVINGS HAPPENING NOW*********  Thousand Oaks Toyota proudly offers this Mazda CX-5 with available home delivery servic..."
+        },
+        "features": ["4-Wheel Disc Brakes", "4.324 Axle Ratio", "6 Speakers", "ABS brakes", "AM/FM radio", "Air Conditioning", "Alloy wheels", "Automatic temperature control", "Blind spot sensor: Blind Spot Monitoring warning", "Brake assist", "Bumpers: body-color", "Delay-off headlights", "Driver door bin", "Driver vanity mirror", "Dual front impact airbags", "Dual front side impact airbags", "Electronic Stability Control", "Emergency communication system", "Exterior Parking Camera Rear", "Four wheel independent suspension", "Front Bucket Seats", "Front Center Armrest", "Front anti-roll bar", "Front dual zone A/C", "Front reading lights", "Heated front seats", "Illuminated entry", "Leather Shift Knob", "Leatherette Seat Trim", "Low tire pressure warning", "Machine Gray Metallic Paint", "Occupant sensing airbag", "Outside temperature display", "Overhead airbag", "Overhead console", "Panic alarm", "Passenger door bin", "Passenger vanity mirror", "Power door mirrors", "Power driver seat", "Power steering", "Power windows", "Radio data system", "Radio: AM/FM/HD Audio System w/6 Speakers", "Rear anti-roll bar", "Rear reading lights", "Rear seat center armrest", "Rear window defroster", "Rear window wiper", "Remote keyless entry", "Speed control", "Speed-sensing steering", "Split folding rear seat", "Spoiler", "Sport Shape Front Seats", "Steering wheel mounted audio controls", "Tachometer", "Telescoping steering wheel", "Tilt steering wheel", "Traction control", "Trip computer", "Turn signal indicator mirrors", "Variably intermittent wipers"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 563118001,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2017 MAZDA CX-5 FWD Touring - 563118001",
+                "src": "//images.autotrader.com/hn/c/88ad5eaab79649a589c936774d6eaa9a.jpg",
+                "title": "Used 2017 MAZDA CX-5 FWD Touring"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "MAZDA",
+        "makeCode": "MAZDA",
+        "model": "CX-5",
+        "modelCode": "CX-5",
+        "owner": 563859,
+        "ownerName": "Thousand Oaks Toyota",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8052670938",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-09-17",
+        "pricingDetail": {
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$17,900",
+            "first": "$17,900",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "payments": {
+                "label": "Est. Finance Payment",
+                "paymentDisclaimer": "Estimated payment based on 2.69% APR for 72 months with $3,580 down for well qualified buyers. Terms may vary.",
+                "value": 217
+            },
+            "primary": 17900,
+            "salePrice": 17900,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/T9YjLO3UR1BxiGuyqabF8TJ8as7hS9sRT5dSTYn6R2060RjqXpeT--YtOSDs234joX6eQBv-wDMgJv7yhy5c_rHEXgDR4DQTh94",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Alarm System", "Auxiliary Audio Input", "Blind Spot Alert", "Bluetooth, Hands-Free", "Brake Assist", "Compact", "Cross Traffic Alert", "Cruise Control", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Keyless Start", "Leather Wrapped Steering Wheel", "Power Passenger Seat", "Power Windows", "Premium Wheels", "Rear Spoiler", "Rearview Camera", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Black"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Gray"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "24 City / 31 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - front"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "28,536"
+            }
+        },
+        "stockNumber": "22134A",
+        "style": ["Sport Utility"],
+        "title": "Used 2017 MAZDA CX-5 FWD Touring",
+        "trim": "FWD Touring",
+        "type": "Used",
+        "vin": "JM3KFACL2H0164341",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=563118001&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=MAZDA&modelCode1=CX-5"
+        },
+        "year": 2017,
+        "zip": "91362"
+    },
+    "563560037": {
+        "accelerate": false,
+        "certifiedTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "Subaru_CERT",
+            "epn": "CERT",
+            "image": {
+                "src": "/resources/img/sponsoredCert/cpo/121685.gif",
+                "title": "Subaru Certified Pre-Owned"
+            },
+            "link": {
+                "href": "http://www.subaru.com/vehicles/certified-pre-owned.html",
+                "label": "Subaru Certified Pre-Owned",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CERTIFIED_CAR"
+        }],
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "Quartz Blue Pearl 2018 Subaru Crosstrek 2.0i Premium AWD Lineartronic CVT 2.0L 16V DOHC Priced below KBB Fair Purchase Price! Odometer is 22..."
+        },
+        "features": ["4 Cylinder Engine", "4-Wheel ABS", "4-Wheel Disc Brakes", "A/C", "AM/FM Stereo", "Adjustable Steering Wheel", "All Wheel Drive", "Aluminum Wheels", "Apple CarPlay", "Auto-Off Headlights", "Back-Up Camera", "Brake Actuated Limited Slip Differential", "Brake Assist", "Bucket Seats", "Child Safety Locks", "Cloth Seats", "Compact Spare Tire", "Continuously Variable Trans", "Cruise Control", "Daytime Running Lights", "Driver Air Bag", "Driver Illuminated Vanity Mirror", "Driver Vanity Mirror", "Electrochromic rearview mirror", "Electronic Stability Control", "Fog Lamps", "Front Floor Mats", "Gasoline Fuel", "Heated Driver Seat", "Heated Mirrors", "Intermittent Wipers", "Keyless Entry", "Leather Wrapped Steering Wheel", "MP3 Player", "Onboard Communications System", "Pass-Through Rear Seat", "Passenger Air Bag", "Passenger Illuminated Visor Mirror", "Passenger Vanity Mirror", "Power Door Locks", "Power Driver Mirror", "Power Steering", "Power Windows", "Privacy Glass", "Rear Defrost", "Rear Head Air Bag", "Rear Spoiler", "Remote Trunk Release", "Side Head Air Bag", "Smart Device Integration", "Steering Wheel Controls", "Tire Pressure Monitoring System", "Tires - Front All-Season", "Tires - Rear All-Season", "Trip Computer", "Universal Garage Door Opener", "Variable Speed Intermittent Wipers", "Vehicle Anti-Theft System", "iPod/MP3 Input"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 563560037,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Certified 2018 Subaru Crosstrek 2.0i Premium - 563560037",
+                "src": "//images.autotrader.com/hn/c/58213e7051c14d77bcf012236353fad4.jpg",
+                "title": "Certified 2018 Subaru Crosstrek 2.0i Premium"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Crosstrek",
+        "modelCode": "SUBCRSSTRK",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8056016496",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-09-22",
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$20,944",
+            "first": "$20,944",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "primary": 20944,
+            "salePrice": 20944,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/CvOke04W5w_UC0yBfd0no6YkWWAlF8mwMUZGuEl9RgZazuLABjp3qbyppyNqZ4UFB47UEULLBkXMJh2vLJZfmEaOzUpBKylTzgQ",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Alarm System", "Android Auto", "Apple CarPlay", "Auxiliary Audio Input", "Bluetooth, Hands-Free", "Brake Assist", "Compact", "Cruise Control", "Fog Lights", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Leather Wrapped Steering Wheel", "Power Windows", "Premium Wheels", "Rear Spoiler", "Rearview Camera", "Roof Rack", "Side Air Bag", "Steering Wheel Controls"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Gray"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Blue"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "27 City / 33 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "All wheel drive"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "11,379"
+            }
+        },
+        "stockNumber": "JH250292A",
+        "style": ["Sport Utility"],
+        "title": "Certified 2018 Subaru Crosstrek 2.0i Premium",
+        "trim": "2.0i Premium",
+        "type": "Certified",
+        "vin": "JF2GTABC5JH250292",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=563560037&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=SUB&modelCode1=SUBCRSSTRK"
+        },
+        "year": 2018,
+        "zip": "91362"
+    },
+    "563621735": {
+        "accelerate": true,
+        "carSchemaOwnerImage": "https://images.autotrader.com/images/direct/dealer_photo/2020/09/14/563859/1600112574494/Thousand_Oaks_Toyota_1.GIF",
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "********BLACK FRIDAY SAVINGS HAPPENING NOW*********  Thousand Oaks Toyota proudly offers this Honda Civic with available home delivery servi..."
+        },
+        "features": ["16\" Wheels w/Full Covers", "4 Speakers", "4-Wheel Disc Brakes", "ABS brakes", "AM/FM radio", "Air Conditioning", "Automatic temperature control", "Brake assist", "Bumpers: body-color", "Cloth Seat Trim", "Delay-off headlights", "Driver door bin", "Driver vanity mirror", "Dual front impact airbags", "Dual front side impact airbags", "Electronic Stability Control", "Exterior Parking Camera Rear", "Four wheel independent suspension", "Front Bucket Seats", "Front Center Armrest", "Front anti-roll bar", "Front reading lights", "Fully automatic headlights", "Illuminated entry", "Low tire pressure warning", "Occupant sensing airbag", "Outside temperature display", "Overhead airbag", "Panic alarm", "Passenger door bin", "Passenger vanity mirror", "Power door mirrors", "Power steering", "Power windows", "Radio data system", "Radio: 160-Watt AM/FM Audio System", "Rear anti-roll bar", "Rear window defroster", "Reclining Front Bucket Seats", "Remote keyless entry", "Security system", "Speed control", "Speed-sensing steering", "Steering wheel mounted audio controls", "Tachometer", "Telescoping steering wheel", "Tilt steering wheel", "Traction control"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 563621735,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2017 Honda Civic LX Sedan - 563621735",
+                "src": "//images.autotrader.com/hn/c/3e529c2d490a4944bc65fc119408ec56.jpg",
+                "title": "Used 2017 Honda Civic LX Sedan"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "Honda",
+        "makeCode": "HONDA",
+        "model": "Civic",
+        "modelCode": "CIVIC",
+        "owner": 563859,
+        "ownerName": "Thousand Oaks Toyota",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8052670938",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-09-23",
+        "pricingDetail": {
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$15,500",
+            "first": "$15,500",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "payments": {
+                "label": "Est. Finance Payment",
+                "paymentDisclaimer": "Estimated payment based on 2.69% APR for 72 months with $3,100 down for well qualified buyers. Terms may vary.",
+                "value": 188
+            },
+            "primary": 15500,
+            "salePrice": 15500,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/-q_woFRuvOm078L3zmSiC3T-QgfF3wsrRL9xJIO96tJvJSO22EAy_yzmgIqL7LvC4zG6SnwJLjtATX-x0EGrskP4bers67dmKEg",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Alarm System", "Bluetooth, Hands-Free", "Brake Assist", "Compact", "Cruise Control", "Keyless Entry", "Power Windows", "Rearview Camera", "Side Air Bag", "Steering Wheel Controls"],
+        "specifications": {
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Silver"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "31 City / 40 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - front"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "28,457"
+            }
+        },
+        "stockNumber": "P9509",
+        "style": ["Sedan"],
+        "title": "Used 2017 Honda Civic LX Sedan",
+        "trim": "LX Sedan",
+        "type": "Used",
+        "vin": "2HGFC2F54HH551122",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=563621735&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=HONDA&modelCode1=CIVIC"
+        },
+        "year": 2017,
+        "zip": "91362"
+    },
+    "563707662": {
+        "accelerate": false,
+        "carSchemaOwnerImage": "https://images.autotrader.com/images/direct/dealer_photo/2020/09/22/100029498/1600785421197/carmax.jpg",
+        "dealerConfig": {},
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 563707662,
+        "images": {
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2014 Chevrolet Cruze LT - 563707662",
+                "src": "https://images.autotrader.com/hn/c/9b38711b2dfb47aca21f586d9480b232.jpg",
+                "title": "Used 2014 Chevrolet Cruze LT"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": false,
+        "isReducedPrice": true,
+        "make": "Chevrolet",
+        "makeCode": "CHEV",
+        "model": "Cruze",
+        "modelCode": "CRUZE",
+        "owner": 100029498,
+        "ownerName": "CarMax Costa Mesa - Offering Curbside Pickup & Home Delivery",
+        "priceValidUntil": "2021-09-23",
+        "pricingDetail": {
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "salePrice": 10599
+        },
+        "quickViewFeatures": ["Alarm System", "Auxiliary Audio Input", "Bluetooth, Hands-Free", "Brake Assist", "Cruise Control", "Keyless Entry", "Power Windows", "Premium Wheels", "Satellite Radio", "Side Air Bag"],
+        "specifications": {
+            "color": {
+                "label": "Color",
+                "value": "Gray"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder Turbo"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - front"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "61,922"
+            }
+        },
+        "style": ["Sedan"],
+        "title": "Used 2014 Chevrolet Cruze LT",
+        "trim": "LT",
+        "type": "Used",
+        "vin": "1G1PK5SB8E7379132",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=563707662&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100"
+        },
+        "year": 2014,
+        "typeCode": "USED",
+        "birf": {
+            "isPhotoAvailable": "y",
+            "make": "CHEV",
+            "model": "CRUZE",
+            "spotlightId": "48344890",
+            "spotlightType": "P",
+            "stockNumber": "19297317"
+        },
+        "spotlightType": "LISTING"
+    },
+    "563902504": {
+        "accelerate": false,
+        "certifiedTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "Subaru_CERT",
+            "epn": "CERT",
+            "image": {
+                "src": "/resources/img/sponsoredCert/cpo/121685.gif",
+                "title": "Subaru Certified Pre-Owned"
+            },
+            "link": {
+                "href": "http://www.subaru.com/vehicles/certified-pre-owned.html",
+                "label": "Subaru Certified Pre-Owned",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CERTIFIED_CAR"
+        }],
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "Venetian Red Pearl 2018 Subaru Crosstrek 2.0i Limited AWD Lineartronic CVT 2.0L 16V DOHC  Odometer is 13833 miles below market average! 27/3..."
+        },
+        "features": ["4 Cylinder Engine", "4-Wheel ABS", "4-Wheel Disc Brakes", "A/C", "AM/FM Stereo", "Adaptive Cruise Control", "Adjustable Steering Wheel", "All Wheel Drive", "Aluminum Wheels", "Apple CarPlay", "Auto-Off Headlights", "Back-Up Camera", "Blind Spot Monitor", "Brake Actuated Limited Slip Differential", "Brake Assist", "Bucket Seats", "Child Safety Locks", "Climate Control", "Compact Spare Tire", "Continuously Variable Trans", "Cross-Traffic Alert", "Cruise Control", "Daytime Running Lights", "Driver Air Bag", "Driver Illuminated Vanity Mirror", "Driver Vanity Mirror", "Electrochromic rearview mirror", "Electronic Stability Control", "Fog Lamps", "Front Floor Mats", "Gasoline Fuel", "Headlights-Auto-Leveling", "Heated Driver Seat", "Heated Mirrors", "Integrated Turn Signal Mirrors", "Intermittent Wipers", "Keyless Entry", "Keyless Start", "Lane Keeping Assist", "Leather Seats", "Leather Wrapped Steering Wheel", "MP3 Player", "Navigation", "Onboard Communications System", "Pass-Through Rear Seat", "Passenger Air Bag", "Passenger Illuminated Visor Mirror", "Passenger Vanity Mirror", "Power Door Locks", "Power Driver Mirror", "Power Driver Seat", "Power Steering", "Power Windows", "Premium Sound System", "Privacy Glass", "Rear Defrost", "Rear Head Air Bag", "Rear Spoiler", "Remote Trunk Release", "Satellite Radio", "Side Head Air Bag", "Smart Device Integration", "Steering Wheel Controls", "Sunroof", "Tire Pressure Monitoring System", "Tires - Front Performance", "Tires - Rear Performance", "Trip Computer", "Universal Garage Door Opener", "Variable Speed Intermittent Wipers", "Vehicle Anti-Theft System", "iPod/MP3 Input"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 563902504,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Certified 2018 Subaru Crosstrek 2.0i Limited - 563902504",
+                "src": "//images.autotrader.com/hn/c/86bd4bb7f20a4d5e8bb125f300ee6c3a.jpg",
+                "title": "Certified 2018 Subaru Crosstrek 2.0i Limited"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Crosstrek",
+        "modelCode": "SUBCRSSTRK",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "packages": ["Eyesight System & Moonroof Package w/Navigation", "Popular Package #2"],
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8056016496",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-09-25",
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$25,182",
+            "first": "$25,182",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "primary": 25182,
+            "salePrice": 25182,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/ZOOMRCTW-oJdFmrBJC2UQTcLow79Ksx8wr3XyxBF_tbQh-ofhzMuGheW6WnyVe1B3gxHtRMASeB4DKz-umc23e0G-TtwY7AOogw",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Adaptive Cruise Control", "Alarm System", "Android Auto", "Apple CarPlay", "Auxiliary Audio Input", "Blind Spot Alert", "Bluetooth, Hands-Free", "Brake Assist", "Compact", "Cross Traffic Alert", "Cruise Control", "Fog Lights", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Keyless Start", "Lane Departure Warning", "Leather Seats", "Leather Wrapped Steering Wheel", "Navigation System", "Power Passenger Seat", "Power Windows", "Premium Sound System", "Premium Wheels", "Rear Spoiler", "Rearview Camera", "Roof Rack", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "Sunroof"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Black"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Red"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "27 City / 33 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "All wheel drive"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "16,381"
+            }
+        },
+        "stockNumber": "JH218072A",
+        "style": ["Sport Utility"],
+        "title": "Certified 2018 Subaru Crosstrek 2.0i Limited",
+        "trim": "2.0i Limited",
+        "type": "Certified",
+        "vin": "JF2GTAMC0JH218072",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=563902504&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=SUB&modelCode1=SUBCRSSTRK"
+        },
+        "year": 2018,
+        "zip": "91362"
+    },
+    "564394721": {
+        "accelerate": false,
+        "description": {
+            "label": "New 2021 Subaru Forester"
+        },
+        "hasSpecialOffer": true,
+        "id": 564394721,
+        "images": {
+            "hasStockPhoto": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "New 2021 Subaru Forester Sport - 564394721",
+                "src": "https://images.autotrader.com/hn/c/10765c330a384e6680e465bf6ce3fc73.jpg",
+                "title": "New 2021 Subaru Forester Sport"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": false,
+        "isReducedPrice": false,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Forester",
+        "modelCode": "FOREST",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8052679985",
+            "isVisible": true
+        },
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": true,
+            "derived": "28365",
+            "first": "$28,365.00",
+            "incentive": 0,
+            "msrp": 33156,
+            "primary": 28365,
+            "salePrice": 28365,
+            "specialOffers": 1
+        },
+        "specifications": {
+            "mileage": {
+                "label": "miles",
+                "value": "5"
+            }
+        },
+        "stockNumber": "MH400481",
+        "title": "New 2021 Subaru Forester Sport",
+        "trim": "Sport",
+        "type": "New",
+        "vin": "JF2SKARC4MH400481",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=564394721&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100"
+        },
+        "year": 2021,
+        "typeCode": "NEW"
+    },
+    "564495740": {
+        "accelerate": false,
+        "certifiedTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "Subaru_CERT",
+            "epn": "CERT",
+            "image": {
+                "src": "/resources/img/sponsoredCert/cpo/121685.gif",
+                "title": "Subaru Certified Pre-Owned"
+            },
+            "link": {
+                "href": "http://www.subaru.com/vehicles/certified-pre-owned.html",
+                "label": "Subaru Certified Pre-Owned",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CERTIFIED_CAR"
+        }],
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "Crystal Black Silica 2017 Subaru Legacy 3.6R Limited AWD CVT Lineartronic 3.6L Boxer H6 DOHC 24V Priced below KBB Fair Purchase Price! Odome..."
+        },
+        "features": ["4-Wheel ABS", "4-Wheel Disc Brakes", "A/C", "AM/FM Stereo", "Adaptive Cruise Control", "Adjustable Steering Wheel", "All Wheel Drive", "Aluminum Wheels", "Auto-Off Headlights", "Back-Up Camera", "Blind Spot Monitor", "Brake Assist", "Bucket Seats", "Child Safety Locks", "Compact Spare Tire", "Continuously Variable Trans", "Cross-Traffic Alert", "Cruise Control", "Daytime Running Lights", "Driver Air Bag", "Driver Illuminated Vanity Mirror", "Driver Lumbar", "Driver Vanity Mirror", "Dual Zone A/C", "Electrochromic rearview mirror", "Electronic Stability Control", "Flat 6 Cylinder Engine", "Fog Lamps", "Front Floor Mats", "Gasoline Fuel", "HID headlights", "Headlights-Auto-Leveling", "Heated Driver Seat", "Heated Mirrors", "Heated Rear Seat", "Integrated Turn Signal Mirrors", "Intermittent Wipers", "Keyless Entry", "Keyless Start", "Leather Seats", "Leather Wrapped Steering Wheel", "MP3 Player", "Navigation", "Onboard Communications System", "Pass-Through Rear Seat", "Passenger Air Bag", "Passenger Illuminated Visor Mirror", "Passenger Vanity Mirror", "Power Door Locks", "Power Driver Mirror", "Power Driver Seat", "Power Passenger Seat", "Power Steering", "Power Windows", "Premium Sound System", "Rear Defrost", "Rear Head Air Bag", "Remote Trunk Release", "Satellite Radio", "Seat Memory", "Side Head Air Bag", "Smart Device Integration", "Steering Wheel Controls", "Sunroof", "Tire Pressure Monitoring System", "Tires - Front Performance", "Tires - Rear Performance", "Trip Computer", "Universal Garage Door Opener", "Variable Speed Intermittent Wipers", "Vehicle Anti-Theft System", "Woodgrain Interior Trim", "iPod/MP3 Input"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 564495740,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Certified 2017 Subaru Legacy 3.6R Limited - 564495740",
+                "src": "//images.autotrader.com/hn/c/c177841fbe2f4636acc32c488bb1994a.jpg",
+                "title": "Certified 2017 Subaru Legacy 3.6R Limited"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Legacy",
+        "modelCode": "LEGACY",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "packages": ["Eyesight & Nav System & High Beam Assist & RAB", "Popular Package #2"],
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8056016496",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-10-01",
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$21,049",
+            "first": "$21,049",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "primary": 21049,
+            "salePrice": 21049,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255821.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/iPIvbj5fiBWnEsBaCFM1bBAht-UVs1dN5wkRFRmOWkEZWBRoE2ScmUcqCbO7MNBs_7NeeTg05jG6CtjuWDnG7gvSBBYsOifEWyg",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Adaptive Cruise Control", "Alarm System", "Auxiliary Audio Input", "Blind Spot Alert", "Bluetooth, Hands-Free", "Brake Assist", "Collision Warning", "Cruise Control", "Fog Lights", "HID Headlights", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Keyless Start", "Leather Seats", "Leather Wrapped Steering Wheel", "Midsize", "Moonroof", "Navigation System", "Power Passenger Seat", "Power Windows", "Premium Sound System", "Premium Wheels", "Rear Heated Seats", "Rearview Camera", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "Sunroof"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Warm Ivory"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Black"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "20 City / 28 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "6-Cylinder"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "All wheel drive"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "17,970"
+            }
+        },
+        "stockNumber": "H3033960P",
+        "style": ["Sedan"],
+        "title": "Certified 2017 Subaru Legacy 3.6R Limited",
+        "trim": "3.6R Limited",
+        "type": "Certified",
+        "vin": "4S3BNEN6XH3033960",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=564495740&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=SUB&modelCode1=LEGACY"
+        },
+        "year": 2017,
+        "zip": "91362"
+    },
+    "565360356": {
+        "accelerate": false,
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "White 2015 BMW 3 Series 328i RWD 8-Speed Automatic 2.0L 4-Cylinder DOHC 16V Turbocharged Priced below KBB Fair Purchase Price! Odometer is 1..."
+        },
+        "features": ["4 Cylinder Engine", "4-Wheel ABS", "4-Wheel Disc Brakes", "8-Speed A/T", "AM/FM Stereo", "Adjustable Steering Wheel", "Aluminum Wheels", "Auto Transmission w/Manual Mode", "Auto-Off Headlights", "Brake Assist", "Bucket Seats", "CD Player", "Child Safety Locks", "Cruise Control", "Daytime Running Lights", "Driver Air Bag", "Driver Illuminated Vanity Mirror", "Driver Vanity Mirror", "Dual Zone A/C", "Electrochromic rearview mirror", "Electronic Stability Control", "Fog Lamps", "Front Floor Mats", "Gasoline Fuel", "Heated Driver Seat", "Heated Mirrors", "Integrated Turn Signal Mirrors", "Intermittent Wipers", "Keyless Entry", "Keyless Start", "Leather Wrapped Steering Wheel", "MP3 Player", "Mirror Memory", "Navigation", "Onboard Communications System", "Pass-Through Rear Seat", "Passenger Air Bag", "Passenger Illuminated Visor Mirror", "Passenger Vanity Mirror", "Power Door Locks", "Power Driver Mirror", "Power Driver Seat", "Power Passenger Seat", "Power Steering", "Power Windows", "Rain Sensing Wipers", "Rear Air", "Rear Defrost", "Rear Head Air Bag", "Rear Wheel Drive", "Seat Memory", "Side Head Air Bag", "Smart Device Integration", "Steering Wheel Controls", "Sunroof", "Tire Pressure Monitoring System", "Tires - Front Performance", "Tires - Rear Performance", "Trip Computer", "Turbocharged", "Universal Garage Door Opener", "Variable Speed Intermittent Wipers", "Vehicle Anti-Theft System", "Woodgrain Interior Trim", "iPod/MP3 Input"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 565360356,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2015 BMW 328i Sedan - 565360356",
+                "src": "//images.autotrader.com/hn/c/295a45225a8741eebc984bdb1cb5ef33.jpg",
+                "title": "Used 2015 BMW 328i Sedan"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "BMW",
+        "makeCode": "BMW",
+        "model": "328i",
+        "modelCode": "328I",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8056016496",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-10-11",
+        "pricingDetail": {
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$17,165",
+            "first": "$17,165",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "primary": 17165,
+            "salePrice": 17165,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/NTJAHpwRHThUfD2-sSutLQjpwkXt-Z-1Gk1HwJC6H22PnESM7xIwtL80_SGt75EJNGQSpC39v7vEfWCoWNEXDU5Jv07l2xJIrYE",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Alarm System", "Auxiliary Audio Input", "Bluetooth, Hands-Free", "Brake Assist", "Cruise Control", "Fog Lights", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Keyless Start", "Leather Wrapped Steering Wheel", "Luxury", "Navigation System", "Power Passenger Seat", "Power Windows", "Premium Wheels", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "Sunroof"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Venetian Beige Sensatec"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "White"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "23 City / 34 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder Turbo"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - rear"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "49,924"
+            }
+        },
+        "stockNumber": "FP851869A",
+        "style": ["Sedan"],
+        "title": "Used 2015 BMW 328i Sedan",
+        "trim": "Sedan",
+        "type": "Used",
+        "vin": "WBA3C1C55FP851869",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=565360356&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=BMW&modelCode1=328I"
+        },
+        "year": 2015,
+        "zip": "91362"
+    },
+    "565360357": {
+        "accelerate": false,
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "White 2016 MINI Cooper S Countryman FWD 6-Speed 1.6L I4 DOHC 16V Turbocharged Priced below KBB Fair Purchase Price! Odometer is 17213 miles ..."
+        },
+        "features": ["4 Cylinder Engine", "4-Wheel ABS", "4-Wheel Disc Brakes", "6-Speed A/T", "A/C", "AM/FM Stereo", "Adjustable Steering Wheel", "Auto Transmission w/Manual Mode", "Auto-Off Headlights", "Bluetooth", "Brake Actuated Limited Slip Differential", "Brake Assist", "Bucket Seats", "Climate Control", "Cruise Control", "Daytime Running Lights", "Driver Air Bag", "Driver Illuminated Vanity Mirror", "Driver Vanity Mirror", "Dual Moonroof", "Electronic Stability Control", "Fog Lamps", "Front Floor Mats", "Front Wheel Drive", "Gasoline Fuel", "Heated Driver Seat", "Heated Mirrors", "Intermittent Wipers", "Keyless Entry", "Keyless Start", "Leather Wrapped Steering Wheel", "MP3 Player", "Pass-Through Rear Seat", "Passenger Air Bag", "Passenger Illuminated Visor Mirror", "Passenger Vanity Mirror", "Power Door Locks", "Power Driver Mirror", "Power Steering", "Power Windows", "Premium Sound System", "Rain Sensing Wipers", "Rear Defrost", "Rear Head Air Bag", "Rear Spoiler", "Satellite Radio", "Side Head Air Bag", "Steering Wheel Controls", "Tire Pressure Monitoring System", "Tires - Front All-Season", "Tires - Front Performance", "Tires - Rear All-Season", "Tires - Rear Performance", "Trip Computer", "Turbocharged", "Variable Speed Intermittent Wipers", "Vehicle Anti-Theft System", "iPod/MP3 Input"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 565360357,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2016 MINI Cooper Countryman S - 565360357",
+                "src": "//images.autotrader.com/hn/c/2673b86dbcc84cb3a1d21080bd723d05.jpg",
+                "title": "Used 2016 MINI Cooper Countryman S"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "MINI",
+        "makeCode": "MINI",
+        "model": "Cooper Countryman",
+        "modelCode": "COUNTRYMAN",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8056016496",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-10-11",
+        "pricingDetail": {
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$16,290",
+            "first": "$16,290",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "primary": 16290,
+            "salePrice": 16290,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/x1Aoe1Ej4FK9Jmu-OTr1Js7lP-UVeysrr8iFgauOkSXhWNrrPS3HerxfssV144VEN2Q7vLyknsxbE70QmTJ9l_3IvFqG5yEGLyM",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Alarm System", "Auxiliary Audio Input", "Bluetooth, Hands-Free", "Brake Assist", "Cruise Control", "Fog Lights", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Keyless Start", "Leather Wrapped Steering Wheel", "Power Windows", "Premium Sound System", "Premium Wheels", "Rear Spoiler", "Roof Rack", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "Subcompact", "Sunroof"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Carbon Black Leatherette"
+            },
+            "color": {
+                "label": "Color",
+                "value": "White"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "25 City / 31 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder Turbo"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - front"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "28,640"
+            }
+        },
+        "stockNumber": "GWT09781A",
+        "style": ["Sport Utility"],
+        "title": "Used 2016 MINI Cooper Countryman S",
+        "trim": "S",
+        "type": "Used",
+        "vin": "WMWZC3C53GWT09781",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=565360357&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=MINI&modelCode1=COUNTRYMAN"
+        },
+        "year": 2016,
+        "zip": "91362"
+    },
+    "565751803": {
+        "accelerate": false,
+        "certifiedTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "Subaru_CERT",
+            "epn": "CERT",
+            "image": {
+                "src": "/resources/img/sponsoredCert/cpo/121685.gif",
+                "title": "Subaru Certified Pre-Owned"
+            },
+            "link": {
+                "href": "http://www.subaru.com/vehicles/certified-pre-owned.html",
+                "label": "Subaru Certified Pre-Owned",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CERTIFIED_CAR"
+        }],
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "Whc 2017 Subaru Outback 2.5i Limited AWD CVT Lineartronic 2.5L 4-Cylinder DOHC 16V  Odometer is 15397 miles below market average! 25/32 City..."
+        },
+        "features": ["4 Cylinder Engine", "4-Wheel ABS", "4-Wheel Disc Brakes", "A/C", "AM/FM Stereo", "Adaptive Cruise Control", "Adjustable Steering Wheel", "All Wheel Drive", "Aluminum Wheels", "Auto-Off Headlights", "Back-Up Camera", "Blind Spot Monitor", "Brake Assist", "Bucket Seats", "Child Safety Locks", "Compact Spare Tire", "Continuously Variable Trans", "Cross-Traffic Alert", "Cruise Control", "Daytime Running Lights", "Driver Air Bag", "Driver Illuminated Vanity Mirror", "Driver Lumbar", "Driver Vanity Mirror", "Dual Zone A/C", "Electrochromic rearview mirror", "Electronic Stability Control", "Fog Lamps", "Front Floor Mats", "Gasoline Fuel", "HID headlights", "Heated Driver Seat", "Heated Mirrors", "Heated Rear Seat", "Integrated Turn Signal Mirrors", "Intermittent Wipers", "Keyless Entry", "Keyless Start", "Leather Seats", "Leather Wrapped Steering Wheel", "Luggage Rack", "MP3 Player", "Navigation", "Onboard Communications System", "Pass-Through Rear Seat", "Passenger Air Bag", "Passenger Illuminated Visor Mirror", "Passenger Vanity Mirror", "Power Door Locks", "Power Driver Mirror", "Power Driver Seat", "Power Liftgate", "Power Passenger Seat", "Power Steering", "Power Windows", "Premium Sound System", "Privacy Glass", "Rear Defrost", "Rear Head Air Bag", "Rear Spoiler", "Remote Trunk Release", "Satellite Radio", "Seat Memory", "Side Head Air Bag", "Smart Device Integration", "Steering Wheel Controls", "Sunroof", "Tire Pressure Monitoring System", "Tires - Front All-Season", "Tires - Rear All-Season", "Trip Computer", "Universal Garage Door Opener", "Variable Speed Intermittent Wipers", "Vehicle Anti-Theft System", "Woodgrain Interior Trim", "iPod/MP3 Input"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 565751803,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Certified 2017 Subaru Outback 2.5i Limited - 565751803",
+                "src": "//images.autotrader.com/hn/c/729a8cbaaa7e4a97bbf53108a075a6ab.jpg",
+                "title": "Certified 2017 Subaru Outback 2.5i Limited"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Outback",
+        "modelCode": "SUBOUTBK",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "packages": ["Eyesight & Navigation & HBA & RAB & HID Lights"],
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8056016496",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-10-15",
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$23,517",
+            "first": "$23,517",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "primary": 23517,
+            "salePrice": 23517,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/1vraiIgm8C9p5YfpGk-3DjMLF_hx_XcOWDFoZyYmVMSX_cC9P2deEZFG3pDVVED-IgrtOqEW5wgTOk8tfNKQEt0_xkU0G8yeXTU",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Adaptive Cruise Control", "Alarm System", "Auxiliary Audio Input", "Blind Spot Alert", "Bluetooth, Hands-Free", "Brake Assist", "Collision Warning", "Cruise Control", "Fog Lights", "HID Headlights", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Keyless Start", "Leather Seats", "Leather Wrapped Steering Wheel", "Midsize", "Moonroof", "Navigation System", "Power Passenger Seat", "Power Windows", "Premium Sound System", "Premium Wheels", "Rear Heated Seats", "Rear Spoiler", "Rearview Camera", "Roof Rack", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "Sunroof"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Slate Black"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "White"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "25 City / 32 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "All wheel drive"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "24,513"
+            }
+        },
+        "stockNumber": "H3376579A",
+        "style": ["Sport Utility"],
+        "title": "Certified 2017 Subaru Outback 2.5i Limited",
+        "trim": "2.5i Limited",
+        "type": "Certified",
+        "vin": "4S4BSANC5H3376579",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=565751803&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=SUB&modelCode1=SUBOUTBK"
+        },
+        "year": 2017,
+        "zip": "91362"
+    },
+    "566486428": {
+        "accelerate": false,
+        "description": {
+            "label": "New 2020 Subaru Outback"
+        },
+        "hasSpecialOffer": true,
+        "id": 566486428,
+        "images": {
+            "hasStockPhoto": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "New 2020 Subaru Outback Premium - 566486428",
+                "src": "https://images.autotrader.com/hn/c/7fbef9287ecf40198e4cd513faf0712b.jpg",
+                "title": "New 2020 Subaru Outback Premium"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": false,
+        "isReducedPrice": false,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Outback",
+        "modelCode": "SUBOUTBK",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8052679985",
+            "isVisible": true
+        },
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": true,
+            "derived": "28643",
+            "first": "$28,643.00",
+            "incentive": 0,
+            "msrp": 32133,
+            "primary": 28643,
+            "salePrice": 28643,
+            "specialOffers": 1
+        },
+        "specifications": {
+            "mileage": {
+                "label": "miles",
+                "value": "39"
+            }
+        },
+        "stockNumber": "L3258193",
+        "title": "New 2020 Subaru Outback Premium",
+        "trim": "Premium",
+        "type": "New",
+        "vin": "4S4BTACC6L3258193",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=566486428&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100"
+        },
+        "year": 2020,
+        "typeCode": "NEW"
+    },
+    "566707030": {
+        "accelerate": false,
+        "description": {
+            "label": "WR Blue Pearl 2020 Subaru WRX Premium AWD 6-Speed Manual 2.0L DOHC Intercooled Turbocharged Priced below KBB Fair Purchase Price! Odometer i...",
+            "hasMore": true
+        },
+        "hasSpecialOffer": false,
+        "id": 566707030,
+        "images": {
+            "hasStockPhoto": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2020 Subaru WRX Premium - 566707030",
+                "src": "//images.autotrader.com/hn/c/ba001327a509437ab6a06bcc144e6352.jpg",
+                "title": "Used 2020 Subaru WRX Premium"
+            }],
+            "hasVideoIcon": false
+        },
+        "isHot": false,
+        "isNewlyListed": false,
+        "isReducedPrice": true,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "WRX",
+        "modelCode": "SUBWRX",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8056016496",
+            "isVisible": true
+        },
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$29,871",
+            "first": "$29,871",
+            "incentive": 0,
+            "msrp": 0,
+            "primary": 29871,
+            "salePrice": 29871,
+            "specialOffers": 0,
+            "noPriceLabel": "Contact Dealer For Price"
+        },
+        "specifications": {
+            "mileage": {
+                "label": "miles",
+                "value": "6,043"
+            },
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Carbon Black"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Manual"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Blue"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "21 City / 27 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder Turbo"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "All wheel drive"
+            }
+        },
+        "stockNumber": "L9810998A",
+        "title": "Used 2020 Subaru WRX Premium",
+        "trim": "Premium",
+        "type": "Used",
+        "vin": "JF1VA1C69L9810998",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=566707030&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=SUB&modelCode1=SUBWRX"
+        },
+        "year": 2020,
+        "typeCode": "USED",
+        "dealerConfig": {},
+        "features": ["4 Cylinder Engine", "4-Wheel ABS", "4-Wheel Disc Brakes", "6-Speed M/T", "A/C", "AM/FM Stereo", "Adjustable Steering Wheel", "All Wheel Drive", "Aluminum Wheels", "Apple CarPlay", "Auto-Off Headlights", "Back-Up Camera", "Bluetooth", "Brake Assist", "Bucket Seats", "CD Player", "Child Safety Locks", "Climate Control", "Cloth Seats", "Compact Spare Tire", "Cruise Control", "Daytime Running Lights", "Driver Air Bag", "Driver Illuminated Vanity Mirror", "Driver Vanity Mirror", "Electronic Stability Control", "Fog Lamps", "Front Floor Mats", "Gasoline Fuel", "Heated Driver Seat", "Heated Mirrors", "Intermittent Wipers", "Keyless Entry", "Leather Wrapped Steering Wheel", "MP3 Player", "Pass-Through Rear Seat", "Passenger Air Bag", "Passenger Illuminated Visor Mirror", "Passenger Vanity Mirror", "Power Door Locks", "Power Driver Mirror", "Power Steering", "Power Windows", "Rear Defrost", "Rear Head Air Bag", "Rear Spoiler", "Remote Trunk Release", "Satellite Radio", "Side Head Air Bag", "Smart Device Integration", "Steering Wheel Controls", "Sunroof", "Tire Pressure Monitoring System", "Tires - Front Performance", "Tires - Rear Performance", "Trip Computer", "Turbocharged", "Variable Speed Intermittent Wipers", "Vehicle Anti-Theft System", "iPod/MP3 Input"],
+        "fuelType": "Gasoline",
+        "priceValidUntil": "2021-10-26",
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/AByz0ozabr6T6GXgV6hPW27fUnW2COIBbHklTgIkcp_KJxVsFiDUmHOG96eH0Z_4wpQtiv2HsKa8akzs14U9GSwNqn0G7igmmwo",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Alarm System", "Android Auto", "Apple CarPlay", "Auxiliary Audio Input", "Bluetooth, Hands-Free", "Brake Assist", "Cruise Control", "Fog Lights", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Leather Wrapped Steering Wheel", "Moonroof", "Power Windows", "Premium Wheels", "Rear Spoiler", "Rearview Camera", "Satellite Radio", "Side Air Bag", "Sport", "Steering Wheel Controls", "Sunroof"],
+        "style": ["Sedan"],
+        "zip": "91362"
+    },
+    "567166993": {
+        "accelerate": false,
+        "description": {
+            "label": "New 2021 Subaru Forester"
+        },
+        "hasSpecialOffer": true,
+        "id": 567166993,
+        "images": {
+            "hasStockPhoto": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "New 2021 Subaru Forester Premium - 567166993",
+                "src": "https://images.autotrader.com/hn/c/729a03fce5404654aa351e1ef8462df0.jpg",
+                "title": "New 2021 Subaru Forester Premium"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": false,
+        "isReducedPrice": false,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Forester",
+        "modelCode": "FOREST",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8052679985",
+            "isVisible": true
+        },
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": false,
+            "derived": "29797",
+            "first": "$29,797.00",
+            "incentive": 0,
+            "msrp": 29797,
+            "primary": 29797,
+            "salePrice": 29797,
+            "specialOffers": 1
+        },
+        "specifications": {
+            "mileage": {
+                "label": "miles",
+                "value": "5"
+            }
+        },
+        "stockNumber": "MH428878",
+        "title": "New 2021 Subaru Forester Premium",
+        "trim": "Premium",
+        "type": "New",
+        "vin": "JF2SKAFC0MH428878",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=567166993&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100"
+        },
+        "year": 2021,
+        "typeCode": "NEW"
+    },
+    "567269119": {
+        "accelerate": true,
+        "carSchemaOwnerImage": "https://images.autotrader.com/images/direct/dealer_photo/2020/04/24/72391181/1587764572836/Simi_Valley_Toyota_pic_1.GIF",
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "BIGGEST PRE-OWNED SALE OF THE YEAR AT SIMI VALLEY TOYOTA !! Backup Camera, Bluetooth, Alloy Wheels, Car Play, Android Auto. Clean CARFAX. CA..."
+        },
+        "features": ["17\" Painted Aluminum Wheels", "4-Wheel Disc Brakes", "6 Speakers", "6-Speaker Audio System", "6-Way Manual Driver Seat Adjuster", "6-Way Manual Passenger Seat Adjuster", "ABS brakes", "AM/FM radio: SiriusXM", "Air Conditioning", "Alloy Wheels", "Android Auto", "Apple CarPlay/Android Auto", "Automatic temperature control", "Backup Camera", "Bluetooth", "Brake assist", "Bumpers: body-color", "Car Play", "Compass", "Delay-off headlights", "Deluxe Cloth Seat Trim", "Driver door bin", "Driver vanity mirror", "Dual front impact airbags", "Dual front side impact airbags", "Electronic Stability Control", "Emergency communication system: OnStar and Chevrolet connected services capable", "Front Bucket Seats", "Front Center Armrest", "Front anti-roll bar", "Front reading lights", "Front wheel independent suspension", "Fully automatic headlights", "Heated door mirrors", "High-Intensity Discharge Headlights", "Illuminated entry", "Knee airbag", "Low tire pressure warning", "Occupant sensing airbag", "Outside temperature display", "Overhead airbag", "Overhead console", "Panic alarm", "Passenger door bin", "Passenger vanity mirror", "Power door mirrors", "Power steering", "Power windows", "Premium audio system: Chevrolet MyLink", "Radio: Chevrolet Infotainment System AM/FM Stereo", "Rear side impact airbag", "Rear window defroster", "Rear window wiper", "Remote keyless entry", "Security system", "SiriusXM Radio", "Speed control", "Split folding rear seat", "Steering wheel mounted audio controls", "Telescoping steering wheel", "Tilt steering wheel", "Traction control", "Trip computer", "Variably intermittent wipers"],
+        "fuelType": "Electric",
+        "hasSpecialOffer": false,
+        "id": 567269119,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2020 Chevrolet Bolt LT - 567269119",
+                "src": "//images.autotrader.com/hn/c/491bb299face421fbdf3893230681a07.jpg",
+                "title": "Used 2020 Chevrolet Bolt LT"
+            }]
+        },
+        "isHot": true,
+        "make": "Chevrolet",
+        "makeCode": "CHEV",
+        "model": "Bolt",
+        "modelCode": "CHEBOLT",
+        "owner": 72391181,
+        "ownerName": "SIMI VALLEY TOYOTA",
+        "packages": ["LPO, Interior Protection Package"],
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8053283640",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-10-31",
+        "pricingDetail": {
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$20,989",
+            "first": "$20,989",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "payments": {
+                "label": "Est. Finance Payment",
+                "paymentDisclaimer": "Estimated payment based on 4.47% APR for 72 months with $2,099 down for well qualified buyers. Terms may vary.",
+                "value": 301
+            },
+            "primary": 20989,
+            "salePrice": 20989,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/kGnNGd8s4lz5CDNv7qBdXu3SEACLGg6E2hvEVeAkgoeD5nv1J_VC9FDJIn6foyNqVGXHts69HkLccBRrfDkmClIugTYea0czcFc",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Alarm System", "Android Auto", "Apple CarPlay", "Auxiliary Audio Input", "Bluetooth, Hands-Free", "Brake Assist", "Compact", "Cruise Control", "HID Headlights", "Keyless Entry", "Keyless Start", "Power Windows", "Premium Sound System", "Premium Wheels", "Rearview Camera", "Remote Engine Start", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "WiFi Hotspot"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Dark Galvanized /Sky Cool Gray"
+            },
+            "mileRange": {
+                "label": "Mile Range",
+                "value": "259 Mile Range"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Single-Speed"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Gray"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "Electric"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - front"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "7,724"
+            }
+        },
+        "stockNumber": "210200A",
+        "style": ["Wagon"],
+        "title": "Used 2020 Chevrolet Bolt LT",
+        "trim": "LT",
+        "type": "Used",
+        "vin": "1G1FY6S03L4106810",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=567269119&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=CHEV&modelCode1=CHEBOLT"
+        },
+        "year": 2020,
+        "zip": "93065"
+    },
+    "567516480": {
+        "accelerate": false,
+        "description": {
+            "label": "New 2021 Subaru Forester"
+        },
+        "hasSpecialOffer": true,
+        "id": 567516480,
+        "images": {
+            "hasStockPhoto": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "New 2021 Subaru Forester Sport - 567516480",
+                "src": "https://images.autotrader.com/hn/c/13e55f2e40064f62bdbd99b52ca36cd5.jpg",
+                "title": "New 2021 Subaru Forester Sport"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": false,
+        "isReducedPrice": false,
+        "make": "Subaru",
+        "makeCode": "SUB",
+        "model": "Forester",
+        "modelCode": "FOREST",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8052679985",
+            "isVisible": true
+        },
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": true,
+            "derived": "29031",
+            "first": "$29,031.00",
+            "incentive": 0,
+            "msrp": 31511,
+            "primary": 29031,
+            "salePrice": 29031,
+            "specialOffers": 1
+        },
+        "specifications": {
+            "mileage": {
+                "label": "miles",
+                "value": "5"
+            }
+        },
+        "stockNumber": "MH429896",
+        "title": "New 2021 Subaru Forester Sport",
+        "trim": "Sport",
+        "type": "New",
+        "vin": "JF2SKALC1MH429896",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=567516480&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100"
+        },
+        "year": 2021,
+        "typeCode": "NEW"
+    },
+    "568828238": {
+        "accelerate": false,
+        "description": {
+            "label": "Used 2017 RAM 1500"
+        },
+        "hasSpecialOffer": false,
+        "id": 568828238,
+        "images": {
+            "hasStockPhoto": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2017 RAM 1500 2WD Crew Cab SLT - 568828238",
+                "src": "https://images.autotrader.com/hn/c/250e17de286d49aeab8e1116aa7385e2.jpg",
+                "title": "Used 2017 RAM 1500 2WD Crew Cab SLT"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": false,
+        "isReducedPrice": true,
+        "make": "RAM",
+        "makeCode": "RAM",
+        "model": "1500",
+        "modelCode": "RM1500",
+        "owner": 72780467,
+        "ownerName": "DCH Subaru of Thousand Oaks",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8056016496",
+            "isVisible": true
+        },
+        "pricingDetail": {
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Good",
+            "derived": "29272",
+            "first": "$29,272.00",
+            "incentive": 0,
+            "msrp": 0,
+            "primary": 29272,
+            "salePrice": 29272,
+            "specialOffers": 0
+        },
+        "specifications": {
+            "mileage": {
+                "label": "miles",
+                "value": "51,049"
+            }
+        },
+        "stockNumber": "HS821852A",
+        "title": "Used 2017 RAM 1500 2WD Crew Cab SLT",
+        "trim": "2WD Crew Cab SLT",
+        "type": "Used",
+        "vin": "1C6RR6TT5HS821852",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=568828238&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100"
+        },
+        "year": 2017,
+        "typeCode": "USED"
+    },
+    "568902023": {
+        "accelerate": false,
+        "carSchemaOwnerImage": "https://images.autotrader.com/images/direct/dealer_photo/2020/11/05/72841179/1604602483773/West_Valley_Superstore_photo_1.GIF",
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "2017 Jeep Grand Cherokee Limited ***LEATHER***, ***BLUETOOTH / HANDSFREE***, ***BACKUP CAMERA**, ***CarFax ONE OWNER***, ***CarFax Certified..."
+        },
+        "features": ["***BACKUP CAMERA**", "***BLUETOOTH / HANDSFREE***", "***CarFax Certified***", "***CarFax ONE OWNER***", "***LEATHER***", "1-Year SiriusXM Radio Service", "3.27 Rear Axle Ratio", "4-Wheel Disc Brakes", "6 Speakers", "ABS brakes", "AM/FM radio: SiriusXM", "Air Conditioning", "Anti-whiplash front head restraints", "Audio memory", "Auto-dimming Rear-View mirror", "Auto-dimming door mirrors", "Automatic temperature control", "Brake assist", "Bumpers: body-color", "Call 800-643-2112", "Compass", "Delay-off headlights", "Driver door bin", "Driver vanity mirror", "Dual front impact airbags", "Dual front side impact airbags", "Eco Suspension I", "Electronic Stability Control", "Engine Oil Cooler", "For More Info", "Four wheel independent suspension", "Front Bucket Seats", "Front Center Armrest w/Storage", "Front anti-roll bar", "Front dual zone A/C", "Front fog lights", "Front reading lights", "Fully automatic headlights", "GPS Antenna Input", "Garage door transmitter", "Heated door mirrors", "Heated front seats", "Heated rear seats", "Heated steering wheel", "Illuminated entry", "Knee airbag", "Leather Shift Knob", "Leather Trimmed Bucket Seats", "Low tire pressure warning", "Memory seat", "Occupant sensing airbag", "Outside temperature display", "Overhead airbag", "Overhead console", "Panic alarm", "ParkView Rear Back-Up Camera", "Passenger door bin", "Passenger vanity mirror", "Power Liftgate", "Power door mirrors", "Power driver seat", "Power passenger seat", "Power steering", "Power windows", "Radio data system", "Radio: Uconnect 3 w/5\" Display", "Rear Parking Sensors", "Rear anti-roll bar", "Rear reading lights", "Rear seat center armrest", "Rear window defroster", "Rear window wiper", "Remote keyless entry", "Roof rack: rails only", "Security system", "SiriusXM Satellite Radio", "Speed control", "Speed-Sensitive Wipers", "Split folding rear seat", "Spoiler", "Steering wheel mounted audio controls", "Tachometer", "Telescoping steering wheel", "Tilt steering wheel", "Traction control", "Trip computer", "Turn signal indicator mirrors", "Variably intermittent wipers", "Wheels: 18\" x 8.0\" Tech Gray Aluminum"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 568902023,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2017 Jeep Grand Cherokee Limited - 568902023",
+                "src": "//images.autotrader.com/hn/c/a76ee96bf11d4167930db008cbd7136a.jpg",
+                "title": "Used 2017 Jeep Grand Cherokee Limited"
+            }]
+        },
+        "isHot": false,
+        "isReducedPrice": true,
+        "make": "Jeep",
+        "makeCode": "JEEP",
+        "model": "Grand Cherokee",
+        "modelCode": "JEEPGRAND",
+        "owner": 72841179,
+        "ownerName": "West Valley Used Car Superstore",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "7472267637",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-11-22",
+        "pricingDetail": {
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$26,995",
+            "first": "$26,995",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "primary": 26995,
+            "salePrice": 26995,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/KrRX44AVzZlW6w3c1Y_Kl3SWwBGl3VMEzWFLiN5lsuQzDnpVmsoPiP2c3dEO9y9TA939aGwKj8szbz6fpdjhmZDHrUo54f9E0tA",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Alarm System", "Auxiliary Audio Input", "Bluetooth, Hands-Free", "Brake Assist", "Cruise Control", "Fog Lights", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Keyless Start", "Leather Seats", "Leather Wrapped Steering Wheel", "Midsize", "Parking assist", "Power Passenger Seat", "Power Windows", "Premium Wheels", "Rear Heated Seats", "Rear Spoiler", "Rearview Camera", "Remote Engine Start", "Roof Rack", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "WiFi Hotspot"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Black"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Black"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "19 City / 26 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "6-Cylinder"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - rear"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "9,760"
+            }
+        },
+        "stockNumber": "CT1058",
+        "style": ["Sport Utility"],
+        "title": "Used 2017 Jeep Grand Cherokee Limited",
+        "trim": "Limited",
+        "type": "Used",
+        "vin": "1C4RJEBGXHC965387",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=568902023&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=JEEP&modelCode1=JEEPGRAND"
+        },
+        "year": 2017,
+        "zip": "91304"
+    },
+    "569439167": {
+        "accelerate": true,
+        "carSchemaOwnerImage": "https://images.autotrader.com/images/direct/dealer_photo/2014/01/06/100013692/1389037992803/1.jpg",
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "Only 54,763 Miles! Delivers 38 Highway MPG and 26 City MPG! This Mercedes-Benz CLA-Class delivers a Intercooled Turbo Premium Unleaded I-4 2..."
+        },
+        "features": ["4-Wheel Disc Brakes", "A/C", "ABS", "AM/FM Stereo", "Adjustable Steering Wheel", "Aluminum Wheels", "Automatic Headlights", "Auxiliary Audio Input", "BLIND SPOT ASSIST", "Bluetooth Connection", "Brake Assist", "Bucket Seats", "CD Player", "Child Safety Locks", "Cruise Control", "Daytime Running Lights", "Driver Adjustable Lumbar", "Driver Air Bag", "Driver Illuminated Vanity Mirror", "Driver Vanity Mirror", "Engine Immobilizer", "Floor Mats", "Front Head Air Bag", "Front Side Air Bag", "Front Wheel Drive", "HD Radio", "HEATED SEATS", "Heated Mirrors", "Integrated Turn Signal Mirrors", "Intermittent Wipers", "Keyless Entry", "Knee Air Bag", "Leather Steering Wheel", "MP3 Player", "Mirror Memory", "Pass-Through Rear Seat", "Passenger Air Bag", "Passenger Air Bag Sensor", "Passenger Illuminated Visor Mirror", "Passenger Vanity Mirror", "Power Door Locks", "Power Driver Seat", "Power Mirror(s)", "Power Passenger Seat", "Power Steering", "Power Windows", "Premium Synthetic Seats", "Rain Sensing Wipers", "Rear Bench Seat", "Rear Defrost", "Rear Head Air Bag", "Requires Subscription", "Seat Memory", "Security System", "Smart Device Integration", "Stability Control", "Steering Wheel Audio Controls", "Telematics", "Tire Pressure Monitor", "Tires - Front Performance", "Tires - Rear Performance", "Traction Control", "Trip Computer", "Turbocharged", "Variable Speed Intermittent Wipers"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 569439167,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2014 Mercedes-Benz CLA 250 - 569439167",
+                "src": "//images.autotrader.com/hn/c/8f07e9cb49db454d980a162f2900081a.jpg",
+                "title": "Used 2014 Mercedes-Benz CLA 250"
+            }]
+        },
+        "isHot": true,
+        "make": "Mercedes-Benz",
+        "makeCode": "MB",
+        "model": "CLA 250",
+        "modelCode": "MBCLA250",
+        "owner": 100013692,
+        "ownerName": "Mercedes-Benz of Calabasas",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "7472264058",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-11-24",
+        "pricingDetail": {
+            "assetType": "INCLUDED",
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$16,798",
+            "first": "$16,798",
+            "incentive": 16798,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "payments": {
+                "label": "Est. Finance Payment",
+                "paymentDisclaimer": "Estimated payment based on 3.69% APR for 72 months with $1,680 down for well qualified buyers. Terms may vary.",
+                "value": 236
+            },
+            "primary": 16798,
+            "salePrice": 16798,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255821.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/vibdSSXGq_PDeE0z2iNjvbvcQvAhuNH_qqM8JFNVpO53UIJMJJt6S6fe3tbjJlVu4-p-q8XZm7XfshBh48eJcaLND2ePFFQigeo",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Alarm System", "Auxiliary Audio Input", "Blind Spot Alert", "Bluetooth, Hands-Free", "Brake Assist", "Cruise Control", "Fog Lights", "Heated Passenger Seat", "Heated Seats", "Infotainment System", "Keyless Entry", "Leather Wrapped Steering Wheel", "Luxury", "Power Passenger Seat", "Power Windows", "Premium Sound System", "Premium Wheels", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "Telematics"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Black"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Silver"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "26 City / 38 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder Turbo"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - front"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "54,763"
+            }
+        },
+        "stockNumber": "TEN106224",
+        "style": ["Sedan"],
+        "title": "Used 2014 Mercedes-Benz CLA 250",
+        "type": "Used",
+        "vin": "WDDSJ4EB3EN106224",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=569439167&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=MB&modelCode1=MBCLA250"
+        },
+        "year": 2014,
+        "zip": "91302"
+    },
+    "569458430": {
+        "accelerate": false,
+        "carSchemaOwnerImage": "https://images.autotrader.com/images/direct/dealer_photo/2020/10/15/70332025/1602779501823/Silver_Star_Cadillac_1.GIF",
+        "certifiedTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "Cadillac_CERT",
+            "epn": "CERT",
+            "image": {
+                "title": "Cadillac Certified Pre-Owned"
+            },
+            "link": {
+                "href": "https://www.autotrader.com/cadillac",
+                "label": "Cadillac Certified Pre-Owned",
+                "offsite": false,
+                "partner": false
+            },
+            "tileType": "CERTIFIED_CAR"
+        }],
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "Only 10,426 Miles! Scores 26 Highway MPG and 19 City MPG! This Cadillac XT5 delivers a Gas V6 3.6L/222.6 engine powering this Automatic tran..."
+        },
+        "features": ["Audio system feature  Bose premium 8-speaker system", "Brakes  4-wheel antilock  4-wheel vented disc", "Cadillac user experience  Am/fm stereo with 8in diagonal color information display  four USB ports  two auxiliary power outlets  auxiliary input jack  Natural Voice Recognition and Phone Integration for Apple CarPlay and Android Auto capability for compat", "Engine  3.6l v6  Di  Vvt  With automatic stop/start (310 hp [231 kW] @ 6600 rpm  271 lb-ft of torque [366 N-m] @ 5000 rpm)", "Liftgate  rear power with memory height", "Mirrors  outside heated power-adjustable  body-color  manual-folding", "Preferred equipment group Includes Standard Equipment", "Rear Vision Camera", "Seats  Front bucket includes 8-way power driver seat adjuster", "Steering wheel  leather-wrapped", "Stellar black metallic ($625.00 )", "Suspension  4-wheel independent", "Tire Pressure Monitoring System", "Tires  P235/65r18 all-season  H-rated  Blackwall", "Transmission  8-speed automatic", "Wheels  18in x 8in (45.7 cm x 20.3 cm) multi-spoke aluminum with Blade Silver painted finish"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 569458430,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Certified 2018 Cadillac XT5 FWD - 569458430",
+                "src": "//images.autotrader.com/hn/c/327b492c2ce14d2baaf3ce72fc2a5ef6.jpg",
+                "title": "Certified 2018 Cadillac XT5 FWD"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": true,
+        "make": "Cadillac",
+        "makeCode": "CAD",
+        "model": "XT5",
+        "modelCode": "CADXT5",
+        "owner": 70332025,
+        "ownerName": "Silver Star Cadillac",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8052613464",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-11-24",
+        "pricingDetail": {
+            "assetType": "NONE",
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$26,896",
+            "first": "$26,896",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "primary": 26896,
+            "salePrice": 26896,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/64BPLmeFqVKUg0ZBy0aoZnHA0oFPif15oAddmL-Ur4Hh73w8NMmdrsqieTKiMruhagx0DRZWXx2KjFZUw02VqEmGC0XmgfMLgcg",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Alarm System", "Android Auto", "Apple CarPlay", "Auxiliary Audio Input", "Bluetooth, Hands-Free", "Brake Assist", "Cruise Control", "Keyless Entry", "Keyless Start", "Leather Wrapped Steering Wheel", "Luxury", "Parking assist", "Power Passenger Seat", "Power Windows", "Premium Sound System", "Premium Wheels", "Rear Spoiler", "Rearview Camera", "Remote Engine Start", "Roof Rack", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "WiFi Hotspot"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Sahara Beige"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Black"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "19 City / 26 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "6-Cylinder"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - front"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "10,426"
+            }
+        },
+        "stockNumber": "31100SM",
+        "style": ["Sport Utility"],
+        "title": "Certified 2018 Cadillac XT5 FWD",
+        "trim": "FWD",
+        "type": "Certified",
+        "vin": "1GYKNARS5JZ155316",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=569458430&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=CAD&modelCode1=CADXT5"
+        },
+        "year": 2018,
+        "zip": "91362"
+    },
+    "569518352": {
+        "accelerate": true,
+        "carSchemaOwnerImage": "https://images.autotrader.com/images/direct/dealer_photo/2020/04/14/71943559/1586889673199/MB_of_oxnard.jpg",
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "Recent Arrival! CARFAX One-Owner. 2017 Jaguar XE 20d Odyssey Red Metallic Standout Features are, Carfax Accident Free, Backup Camera, Naviga..."
+        },
+        "features": ["333.00!!! DRIVE HOME TODAY IN THIS SOUGHT AFTER FUEL EFFICIENT CLEAN DIESEL JAGUAR AND ENJOY SPORTY PERFORMANCE", "4-Wheel Disc Brakes", "6 Speakers", "ABS brakes", "AM/FM radio", "AND A LUXURIOUS INTERIOR!!! LOADED WITH THE BEST FEATURES INCLUDING THE COLD WEATHER PKG", "AND MUCH MORE THIS JAGUAR WILL AMAZE YOU WITH LUXURY AND TECHNOLOGY FOR MANY YEARS TO COME!!! TAKE ADVANTAGE TODAY OF OUR SPECIAL FLEXIBLE FINANCE OPTIONS!!! HAVE BAD CREDIT OR NEW CREDIT??? OUR FLEXIBLE FINANCE OPTIONS WILL HELP GET YOU ON THE ROAD TODAY", "Air Conditioning", "Auto-dimming Rear-View mirror", "Automatic temperature control", "Backup Camera", "Bluetooth", "Brake assist", "Bumpers: body-color", "CLASSY LOOKS", "Carfax Accident Free", "Cold Climate Package", "Delay-off headlights", "Driver door bin", "Driver vanity mirror", "Dual front impact airbags", "Dual front side impact airbags", "Electronic Stability Control", "Emergency communication system: InControl Protect", "Four wheel independent suspension", "Front Bucket Seats", "Front Center Armrest", "Front anti-roll bar", "Front dual zone A/C", "Front reading lights", "Fully automatic headlights", "Heated Front Seats", "Heated Front Windshield", "Heated Seats", "Heated Steering Wheel", "Heated Washer Jets", "Heated door mirrors", "INCONTROL TOUCH NAVIGATION SYSTEM", "Illuminated entry", "InControl Touch Navigation System", "Keyless Access w/Push Button Start", "Leather", "Low tire pressure warning", "LuxTec Seat Trim", "Navigation", "Navigation System", "Nonsmoker", "ORIGINAL MSRP OF $40", "Occupant sensing airbag", "One Owner", "Outside temperature display", "Overhead airbag", "Overhead console", "Panic alarm", "Passenger door bin", "Passenger vanity mirror", "Power door mirrors", "Power driver seat", "Power moonroof", "Power passenger seat", "Power steering", "Power windows", "REAR VIEW CAMERA", "Radio data system", "Radio: Jaguar 80W Sound System w/6 Speakers", "Rain sensing wipers", "Rear anti-roll bar", "Rear fog lights", "Rear seat center armrest", "Rear window defroster", "Rear-View Camera", "Remote keyless entry", "SIRIUSXM SATELLITE RADIO", "SIRIUSXM Satellite Radio", "Security system", "Speed control", "Speed-sensing steering", "Standout Features are", "Steering wheel mounted audio controls", "Sunroof", "Tachometer", "Telescoping steering wheel", "Tilt steering wheel", "Traction control", "Trip computer", "Turn signal indicator mirrors", "Variably intermittent wipers", "Wheels: 17\" Projector 5-Spoke Alloy"],
+        "fuelType": "Diesel",
+        "hasSpecialOffer": false,
+        "id": 569518352,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2017 Jaguar XE - 569518352",
+                "src": "//images.autotrader.com/hn/c/30e625d9ae3743c3abcabefde87e1719.jpg",
+                "title": "Used 2017 Jaguar XE"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": true,
+        "make": "Jaguar",
+        "makeCode": "JAG",
+        "model": "XE",
+        "modelCode": "JAGXE",
+        "owner": 71943559,
+        "ownerName": "Mercedes-Benz of Oxnard",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8057543880",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-11-24",
+        "pricingDetail": {
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$22,998",
+            "first": "$22,998",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "payments": {
+                "label": "Est. Finance Payment",
+                "paymentDisclaimer": "Estimated payment based on 6.84% APR for 84 months with $2,300 down for well qualified buyers. Terms may vary.",
+                "value": 311
+            },
+            "primary": 22998,
+            "salePrice": 22998,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/kIRAVid2d00jYFuOmrYJ284r_QdbRlocooE4G6DKXNs2-N32hhpJaarzzgt8CdxG3Vp7ajcTH31TD_RDgL93vtpr9XgvdWgTLVo",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Alarm System", "Auxiliary Audio Input", "Bluetooth, Hands-Free", "Brake Assist", "Climate Control", "Cruise Control", "Fog Lights", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Keyless Start", "Leather Seats", "Leather Wrapped Steering Wheel", "Luxury", "Moonroof", "Navigation System", "Power Passenger Seat", "Power Windows", "Premium Wheels", "Rearview Camera", "Remote Engine Start", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls", "Sunroof"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Jet/Jet"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Red"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "32 City / 42 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder Turbo"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - rear"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "25,029"
+            }
+        },
+        "stockNumber": "P1791",
+        "style": ["Sedan"],
+        "title": "Used 2017 Jaguar XE",
+        "type": "Used",
+        "vin": "SAJAR4BN4HCP13649",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=569518352&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=JAG&modelCode1=JAGXE"
+        },
+        "year": 2017,
+        "zip": "93036"
+    },
+    "569518403": {
+        "accelerate": true,
+        "carSchemaOwnerImage": "https://images.autotrader.com/images/direct/dealer_photo/2020/04/14/71943559/1586889673199/MB_of_oxnard.jpg",
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "Recent Arrival! CARFAX One-Owner. 2017 Audi A3 2.0T Premium FrontTrak Ibis White/Black Roof Standout Features are, Backup Camera, Leather, N..."
+        },
+        "features": ["18\" WHEEL PKG", "4-Wheel Disc Brakes", "460.00!!! DRIVE HOME TODAY IN THIS FUN AND CLASSY AUDI A3 PREMIUM CABRIOLET!!! LOADED WITH SOUGHT AFTER FEATURES INCLUDING THE CONVENIENCE PKG", "9 Speakers", "ABS brakes", "AM/FM radio: SiriusXM", "AND MUCH MORE THIS A3 CABRIOLET WILL MAKE FUN IN THE SUN SPECIAL ANY TIME!!! TAKE ADVANTAGE TODAY OF OUR SPECIAL FLEXIBLE FINANCE OPTIONS!!! HAVE BAD CREDIT OR NEW CREDIT??? OUR FLEXIBLE FINANCE OPTIONS WILL HELP GET YOU ON THE ROAD TODAY!!! WE ACCEPT ALL", "Air Conditioning", "Anti-whiplash front head restraints", "Audi Advanced Key", "Automatic temperature control", "Backup Camera", "Bluetooth", "Brake assist", "Bumpers: body-color", "CD player", "Convenience Package", "Convertible roof lining", "Delay-off headlights", "Driver door bin", "Driver vanity mirror", "Dual front impact airbags", "Dual front side impact airbags", "Electronic Stability Control", "Exterior Parking Camera Rear", "Four wheel independent suspension", "Front Bucket Seats", "Front Center Armrest", "Front anti-roll bar", "Front dual zone A/C", "Front fog lights", "Front reading lights", "Glass rear window", "Heated door mirrors", "High intensity discharge headlights: Xenon plus", "Illuminated entry", "Integrated roll-over protection", "Keyless Access w/Push Button Start", "Leather", "Leather Seating Surfaces", "Leather Shift Knob", "Leather steering wheel", "Low tire pressure warning", "MP3 decoder", "Nonsmoker", "ORIGINAL MSRP OF $40", "Occupant sensing airbag", "One Owner", "Outside temperature display", "Panic alarm", "Passenger door bin", "Passenger vanity mirror", "Power convertible roof", "Power door mirrors", "Power driver seat", "Power passenger seat", "Power steering", "Power windows", "Radio data system", "Radio: Audi Concert AM/FM/CD/SAT Player", "Rain sensing wipers", "Rear anti-roll bar", "Rear fog lights", "Rear window defroster", "Remote keyless entry", "Security system", "Speed control", "Speed-Sensitive Wipers", "Speed-sensing steering", "Split folding rear seat", "Standout Features are", "Steering wheel mounted audio controls", "Tachometer", "Telescoping steering wheel", "Tilt steering wheel", "Traction control", "Trip computer", "Turn signal indicator mirrors", "USB Audi Music Interface", "Variably intermittent wipers", "Wheels: 8.0\" x 18\" 5-Double-Spoke Design"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 569518403,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2017 Audi A3 2.0T Premium Cabriolet - 569518403",
+                "src": "//images.autotrader.com/hn/c/184abbbafffb4b6da6d318a96acfcd63.jpg",
+                "title": "Used 2017 Audi A3 2.0T Premium Cabriolet"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": true,
+        "make": "Audi",
+        "makeCode": "AUDI",
+        "model": "A3",
+        "modelCode": "A3",
+        "owner": 71943559,
+        "ownerName": "Mercedes-Benz of Oxnard",
+        "packages": ["Convenience Package"],
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8057543880",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-11-24",
+        "pricingDetail": {
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$24,998",
+            "first": "$24,998",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "payments": {
+                "label": "Est. Finance Payment",
+                "paymentDisclaimer": "Estimated payment based on 6.84% APR for 84 months with $2,500 down for well qualified buyers. Terms may vary.",
+                "value": 338
+            },
+            "primary": 24998,
+            "salePrice": 24998,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/wCwfJif3REzAaEiCSs-Yn4M1vsTwjrdOoOVUt7_EfL4lOuKlnj1qnEOTXD06s09PDgY0KxDiSxSmJEdgQgHlt-qspPZ6elCmSSs",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Alarm System", "Auxiliary Audio Input", "Bluetooth, Hands-Free", "Brake Assist", "Cruise Control", "Fog Lights", "HID Headlights", "Keyless Entry", "Keyless Start", "Leather Seats", "Leather Wrapped Steering Wheel", "Luxury", "Power Passenger Seat", "Power Windows", "Premium Wheels", "Rearview Camera", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Black"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "White"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "26 City / 35 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder Turbo"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - front"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "28,676"
+            }
+        },
+        "stockNumber": "P1793",
+        "style": ["Convertible"],
+        "title": "Used 2017 Audi A3 2.0T Premium Cabriolet",
+        "trim": "2.0T Premium Cabriolet",
+        "type": "Used",
+        "vin": "WAU6ULFF5H1067630",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=569518403&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=AUDI&modelCode1=A3"
+        },
+        "year": 2017,
+        "zip": "93036"
+    },
+    "569521423": {
+        "accelerate": true,
+        "carSchemaOwnerImage": "https://images.autotrader.com/images/direct/dealer_photo/2017/11/22/70293359/1511377446095/INFINITI_DealerPhoto.jpg",
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "CARFAX One-Owner. Clean CARFAX. Super Black Clearcoat 2020 Nissan Altima 2.5 S FWD CVT with Xtronic 2.5L 4-Cylinder DOHC 16V CVT with Xtroni..."
+        },
+        "features": ["4-Wheel Disc Brakes", "6 Speakers", "ABS brakes", "AM/FM radio: SiriusXM", "Air Conditioning", "Brake assist", "Bumpers: body-color", "Cloth Seat Trim", "Delay-off headlights", "Driver door bin", "Driver vanity mirror", "Dual front impact airbags", "Dual front side impact airbags", "Electronic Stability Control", "Four wheel independent suspension", "Front Bucket Seats", "Front Center Armrest", "Front anti-roll bar", "Front reading lights", "Fully automatic headlights", "Illuminated entry", "Knee airbag", "Low tire pressure warning", "NissanConnect featuring Apple CarPlay and Android Auto", "Occupant sensing airbag", "Outside temperature display", "Overhead airbag", "Overhead console", "Panic alarm", "Passenger door bin", "Passenger vanity mirror", "Power door mirrors", "Power driver seat", "Power steering", "Power windows", "Radio data system", "Radio: AM/FM Audio System", "Rear anti-roll bar", "Rear reading lights", "Rear seat center armrest", "Rear side impact airbag", "Rear window defroster", "Remote keyless entry", "Security system", "Speed control", "Speed-Sensitive Wipers", "Speed-sensing steering", "Split folding rear seat", "Sport steering wheel", "Steering wheel mounted audio controls", "Tachometer", "Telescoping steering wheel", "Tilt steering wheel", "Traction control", "Trip computer", "Variably intermittent wipers", "Wheels: 16\" x 7\" Steel w/Full Wheel Covers"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 569521423,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2020 Nissan Altima 2.5 S - 569521423",
+                "src": "//images.autotrader.com/hn/c/d5e6e5275d9040059279c3402444b92e.jpg",
+                "title": "Used 2020 Nissan Altima 2.5 S"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": true,
+        "make": "Nissan",
+        "makeCode": "NISSAN",
+        "model": "Altima",
+        "modelCode": "ALTIMA",
+        "owner": 70293359,
+        "ownerName": "INFINITI of Oxnard",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8058349400",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-11-24",
+        "pricingDetail": {
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$17,991",
+            "first": "$17,991",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "payments": {
+                "label": "Est. Finance Payment",
+                "paymentDisclaimer": "Estimated payment based on 3.64% APR for 72 months with $1,799 down for well qualified buyers. Terms may vary.",
+                "value": 252
+            },
+            "primary": 17991,
+            "salePrice": 17991,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "carfaxVHR",
+            "image": {
+                "src": "/content/web/images/na/partner-tiles/255819.gif",
+                "title": "View the Free CARFAX Report"
+            },
+            "link": {
+                "href": "https://www.carfax.com/VehicleHistory/ar20/ppwPfYulWQ_wkrvVApiiogWOpxOnkQoEIkBIYo-h0Qaw1DahIAvGKNB6MDMzAQsvDgUY8Q29LFRkzVuesr6dgu2HuKCIeztatm4",
+                "label": "View the Free CARFAX Report",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "CARFAX_APPENDED"
+        }],
+        "quickViewFeatures": ["Alarm System", "Android Auto", "Apple CarPlay", "Auxiliary Audio Input", "Bluetooth, Hands-Free", "Brake Assist", "Collision Warning", "Cruise Control", "Keyless Entry", "Keyless Start", "Midsize", "Power Passenger Seat", "Power Windows", "Rearview Camera", "Remote Engine Start", "Satellite Radio", "Side Air Bag", "Steering Wheel Controls"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Charcoal"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Black"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "28 City / 39 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - front"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "4,565"
+            }
+        },
+        "stockNumber": "OP3112",
+        "style": ["Sedan"],
+        "title": "Used 2020 Nissan Altima 2.5 S",
+        "trim": "2.5 S",
+        "type": "Used",
+        "vin": "1N4BL4BV3LN316876",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=569521423&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=NISSAN&modelCode1=ALTIMA"
+        },
+        "year": 2020,
+        "zip": "93036"
+    },
+    "569607086": {
+        "accelerate": false,
+        "carSchemaOwnerImage": "https://images.autotrader.com/images/direct/dealer_photo/2020/09/23/67700415/1600869522151/carmax__002_.jpg",
+        "dealerConfig": {},
+        "description": {
+            "hasMore": true,
+            "label": "CarMax Curbside is now available at select stores. Enjoy online car shopping with contactless pickup at participating locations. Choose your..."
+        },
+        "features": ["A/C Seat(s)", "ABS Brakes", "AM/FM Stereo", "Air Conditioning", "Alloy Wheels", "Automated Cruise Control", "Automatic Transmission", "Auxiliary Audio Input", "Blind Spot Monitor", "Bluetooth Technology", "CD Audio", "Front Seat Heaters", "Lane Departure Warning", "Leatherette Seats", "Navigation System", "Overhead Airbags", "Parking Sensors", "Power Locks", "Power Mirrors", "Power Seat(s)", "Power Windows", "Premium Package", "Rear Defroster", "Rear Spoiler", "Rear View Camera", "Satellite Radio Ready", "Side Airbags", "SiriusXM Trial Available", "Smart Key", "Sunroof(s)", "Traction Control", "Turbo Charged Engine"],
+        "fuelType": "Gasoline",
+        "hasSpecialOffer": false,
+        "id": 569607086,
+        "images": {
+            "hasVideoIcon": false,
+            "primary": 0,
+            "sources": [{
+                "alt": "Used 2017 Lexus IS 200t - 569607086",
+                "src": "//images.autotrader.com/hn/c/d21bb91abd09426e8bd0624103beb15b.jpg",
+                "title": "Used 2017 Lexus IS 200t"
+            }]
+        },
+        "isHot": false,
+        "isNewlyListed": true,
+        "make": "Lexus",
+        "makeCode": "LEXUS",
+        "model": "IS 200t",
+        "modelCode": "LEXIS200T",
+        "owner": 67700415,
+        "ownerName": "CarMax Oxnard - Offering Curbside Pickup & Home Delivery",
+        "phone": {
+            "linkText": "Get this seller's phone number",
+            "privateNumber": false,
+            "value": "8053518553",
+            "isVisible": true
+        },
+        "priceValidUntil": "2021-11-25",
+        "pricingDetail": {
+            "callForPricing": false,
+            "ctaLink": false,
+            "dealIndicator": "Great",
+            "derived": "$25,998",
+            "first": "$25,998",
+            "incentive": 0,
+            "msrp": 0,
+            "noPriceLabel": "Contact Dealer For Price",
+            "primary": 25998,
+            "salePrice": 25998,
+            "specialOffers": 0
+        },
+        "priority": "Premium",
+        "productTiles": [{
+            "cmp": "ec_pa_lgo",
+            "cprd": "View_CERT",
+            "epn": "autocheck",
+            "image": {
+                "src": "/content/web/images/na/experian/210823.jpg",
+                "title": "View AutoCheck Vehicle History"
+            },
+            "link": {
+                "href": "/redirect/experian_forward.jsp?car_id=569607086&experianDealer=true",
+                "label": "View AutoCheck Vehicle History",
+                "offsite": true,
+                "partner": true
+            },
+            "tileType": "EXPERIAN_APPENDED",
+            "sid": "5127162"
+        }],
+        "quickViewFeatures": ["Adaptive Cruise Control", "Alarm System", "Auxiliary Audio Input", "Blind Spot Alert", "Bluetooth, Hands-Free", "Brake Assist", "Cruise Control", "Fog Lights", "Heated Passenger Seat", "Heated Seats", "Keyless Entry", "Keyless Start", "Lane Departure Warning", "Leather Wrapped Steering Wheel", "Luxury", "Moonroof", "Navigation System", "Parking assist", "Power Passenger Seat", "Power Windows", "Premium Wheels", "Rear Spoiler", "Rearview Camera", "Side Air Bag", "Steering Wheel Controls", "Sunroof"],
+        "specifications": {
+            "interiorColor": {
+                "label": "Interior Color",
+                "value": "Black"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "value": "Automatic"
+            },
+            "color": {
+                "label": "Color",
+                "value": "Off White"
+            },
+            "mpg": {
+                "label": "MPG",
+                "value": "22 City / 32 Highway"
+            },
+            "engine": {
+                "label": "Engine",
+                "value": "4-Cylinder Turbo"
+            },
+            "driveType": {
+                "label": "Drive Type",
+                "value": "2 wheel drive - rear"
+            },
+            "mileage": {
+                "label": "miles",
+                "value": "29,106"
+            }
+        },
+        "stockNumber": "19785014",
+        "style": ["Sedan"],
+        "title": "Used 2017 Lexus IS 200t",
+        "type": "Used",
+        "vin": "JTHBA1D2XH5050912",
+        "website": {
+            "href": "/cars-for-sale/vehicledetails.xhtml?listingId=569607086&zip=93021&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D93021%26city%3DMoorpark%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26maxPrice%3D30000%26incremental%3Dall%26state%3DCA%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D100%26isNewSearch%3Dtrue&numRecords=25&maxPrice=30000&firstRecord=0&searchRadius=100&makeCode1=LEXUS&modelCode1=LEXIS200T"
+        },
+        "year": 2017,
+        "zip": "93036"
+    }
+}]
