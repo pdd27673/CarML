@@ -27,7 +27,7 @@ class TraderSpider(scrapy.Spider):
                 continue
 
             try:
-                id= mycars[key]['id']
+                id=mycars[key]['id']
                 brand=mycars[key]['make']
                 model=mycars[key]['model']
                 notes=mycars[key].setdefault('trim','')
